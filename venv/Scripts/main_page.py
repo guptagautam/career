@@ -44,7 +44,7 @@ def get_jaccard_sim(str1, str2):
 app = Flask(__name__,static_url_path='/static')
 @app.route('/', methods=['GET', 'POST'])
 def home():
-    return render_template('index.html')
+    return render_template('templates/index.html')
 @app.route('/colleges/')
 def college():
     return render_template('college.html')

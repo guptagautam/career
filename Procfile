@@ -1,1 +1,1 @@
-web: gunicorn Scripts.app:app
+web: gunicorn app:app

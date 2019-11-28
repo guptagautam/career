@@ -1,1 +1,1 @@
-web: gunicorn venv/Scripts/main_page.py:app
+web: gunicorn venv/Scripts/main_page:app

@@ -1,0 +1,578 @@
+Name,Branch,Place,Exams Accepted,Fees
+"University of Petroleum and Energy Studies, Dehradun","B.Sc-Food, Nutrition and Dietetics","Dehradun, Uttarakhand",NA,"Fees:  ₹ 344,000"
+"Dayananda Sagar College of Engineering, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",COMEDK,"Fees:  ₹ 198,000"
+"Manipal Institute of Technology, Manipal",B.Tech Aeronautical Engineering,"Manipal, Karnataka",MET,"Fees:  ₹ 1,540,000"
+"Maharaja Sayajirao University of Baroda, Vadodara",BE Civil Irrigation and Water Engineering,"Vadodara, Gujarat",GUJCET,"Fees:  ₹ 35,500"
+"Indian Institute of Space Science and Technology, Thiruvananthapuram",B.Tech Avionics,"Thiruvananthapuram, Kerala",JEE,"Fees:  ₹ 272,000"
+"Integral University, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",JEE,"Fees:  ₹ 320,000"
+"Kumaraguru College of Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 220,000"
+Indian Institute of Technology Kharagpur,B.Tech Agricultural and Food Engineering,"Kharagpur, West Bengal",JEE,"Fees:  ₹ 847,500"
+"College of Engineering, Guindy",BE Agricultural and Irrigation,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 129,560"
+"Bannari Amman Institute of Technology, Erode",BE Aeronautical Engineering,"Erode, Tamil Nadu",JEE,"Fees:  ₹ 200,000"
+"Acharya Institute of Technology, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",COMEDK,"Fees:  ₹ 188,000"
+"Sathyabama Institute of Science and Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",SAEEE,"Fees:  ₹ 70,000"
+"School of Engineering and Technology, Jain University, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",NA,"Exams:  Uni-Gauge-E ,  JET "
+"Madras Institute of Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,NA
+"Nitte Meenakshi Institute of Technology, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",COMEDK,"Fees:  ₹ 243,000"
+"Aditya Engineering College, Surampalem",B.Tech Agricultural Engineering,"Surampalem, Andhra Pradesh",NA,"Fees:  ₹ 227,000"
+"Hindustan Institute of Technology and Science, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",HITSEEE,"Fees:  ₹ 1,062,500"
+"KLS Gogte Institute of Technology, Belagavi",BE Aeronautical Engineering,"Belgaum, Karnataka",COMEDK,"Fees:  ₹ 213,840"
+"Karunya Institute of Technology and Sciences, Coimbatore",B.Tech Agricultural Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 724,000"
+"GIET University, Gunupur",B.Tech Agricultural Engineering,"Gunupur, Odisha",JEE,"Fees:  ₹ 456,000"
+"BS Abdur Rahman Institute of Science and Technology, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",JEE,"Fees:  ₹ 630,000"
+"Sharda University, Greater Noida",B.Tech Agriculture Engineering,"Greater Noida, Uttar Pradesh",JEE,"Fees:  ₹ 656,000"
+"Malla Reddy College of Engineering and Technology, Hyderabad",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",TS,"Fees:  ₹ 280,000"
+"College of Technology, GB Pant University of Agriculture and Technology, Pantnagar",B.Tech Agricultural Engineering,"Pantnagar, Uttarakhand",JEE,"Fees:  ₹ 222,356"
+"Institute of Aeronautical Engineering, Dundigal",B.Tech Aeronautical Engineering,"Domara Pocham Pally, Telangana",TS,"Fees:  ₹ 268,000"
+"Rajalakshmi Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 180,000"
+"MVJ College of Engineering, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",JEE,"Fees:  ₹ 923,000"
+"Sri Ramakrishna Engineering College, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"MLR Institute of Technology, Dundigal",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",TS,"Fees:  ₹ 280,000"
+"Hindusthan College of Engineering and Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Sandip University, Nashik",B.Tech Aeronautical Engineering,"Nashik, Maharashtra",NA,NA
+"Sethu Institute of Technology, Kariapatti",BE Agriculture Engineering,"S.Kallupatti, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Srinivas Institute of Technology, Mangalore",BE Aeronautical Engineering,"Arkula, Karnataka",COMEDK,"Fees:  ₹ 316,000"
+"SNS College of Technology, Coimbatore",BE Agricultural Engineering,"Kurumbapalayam, Tamil Nadu",NA,"Fees:  ₹ 220,000"
+"ACS College of Engineering, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",NA,"Exams:  JEE Main ,  COMEDK UGET ,  KCET "
+"Dr MGR Educational and Research Institute, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",JEE,"Fees:  ₹ 640,000"
+"Vignan's Foundation for Science Technology and Research, Guntur",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",JEE,"Fees:  ₹ 500,000"
+"Saveetha Engineering College, Chennai",BE Agriculture Engineering,"Chennai, Tamil Nadu",NA,NA
+"The Institutions of Engineers India, Kolkata",B.Tech Agricultural Engineering,"Kolkata, West Bengal",NA,NA
+"OPJS University, Rajgarh",B.Tech Agricultural Engineering,"Churu, Rajasthan",NA,NA
+"Priyadarshini College of Engineering, Nagpur",BE Aeronautical Engineering,"Nagpur, Maharashtra",JEE,"Fees:  ₹ 416,000"
+"Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",VTUEEE,"Fees:  ₹ 1,060,000"
+"Silver Oak College of Engineering and Technology, Ahmedabad",B.Tech Aeronautical Engineering,"Ahmedabad, Gujarat",NA,"Fees:  ₹ 300,000"
+"Sai Nath University, Ranchi",B.Tech Agricultural Engineering,"Ranchi, Jharkhand",NA,NA
+"Mahatma Phule Krishi Vidyapeeth, Rahuri",B.Tech Agricultural Engineering,"Digras, Maharashtra",NA,NA
+"NIMS University, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,"Fees:  ₹ 320,000"
+"Annasaheb Dange College of Engineering and Technology, Sangli",BE Aeronautical Engineering,"Ashta, Maharashtra",JEE,"Fees:  ₹ 316,000"
+"Bharath Institute of Higher Education and Research, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",BEEE,"Fees:  ₹ 600,000"
+"Amity University, Noida",B.Tech Aeronautical Engineering,"Noida, Uttar Pradesh",Amity,"Fees:  ₹ 1,244,000"
+"ITM University, Gwalior",B.Tech Agricultural Engineering,"Gwalior, Madhya Pradesh",JEE,"Fees:  ₹ 580,000"
+"Adhiyamaan College of Engineering, Hosur",BE Aeronautical Engineering,"Krishnagiri, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"SJC Institute of Technology, Chickballapur",BE Aeronautical Engineering,"Chikkaballapura, Karnataka",JEE,"Fees:  ₹ 280,000"
+"Swami Vivekanand University, Sagar",B.Tech Aeronautical Engineering,"Sironja, Madhya Pradesh",NA,NA
+"Siddhartha Institute of Engineering and Technology, Puttur",B.Tech Agricultural Engineering,"Puttur, Andhra Pradesh",AP,"Fees:  ₹ 290,000"
+"KCG College of Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 220,000"
+"Mangalore Institute of Technology and Engineering, Mangalore",BE Aeronautical Engineering,"Mangalore, Karnataka",NA,"Fees:  ₹ 500,000"
+"Centurion University of Technology and Management, Bhubaneswar",B.Tech Agriculture Engineering,"Khurda, Odisha",JEE,"Fees:  ₹ 500,000"
+"College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur",B.Tech Agricultural Engineering,"Udaipur, Rajasthan",JEE,"Fees:  ₹ 191,290"
+"Excel Engineering College, Namakkal",BE Aeronautical Engineering,"Pallakapalayam, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Kalasalingam Academy of Research and Education, Virudhunagar",B.Tech Agriculture Engineering,"Krishnan Kovil, Tamil Nadu",NA,"Fees:  ₹ 530,000"
+"Desh Bhagat University, Mandi Gobindgarh",B.Tech Aeronautical Engineering,"Mandi Gobindgarh, Punjab",NA,NA
+"Nehru Institute of Engineering and Technology, Coimbatore",BE Aeronautical Engineering,"Thirumalayampalayam, Tamil Nadu",NA,"Fees:  ₹ 2,80,000"
+"Chaudhary Charan Singh Haryana Agricultural University, Hisar",B.Tech Agricultural Engineering,"Hisar, Haryana",NA,Exams:  JEE Main 
+"College of Agricultural Engineering and Technology, Punjab Agricultural University, Ludhiana",B.Tech Agricultural Engineering,"Ludhiana, Punjab",JEE,"Fees:  ₹ 3,22,790"
+"Sri Satya Sai University of Technology and Medical Sciences, Sehore",BE Aeronautical Engineering,"Sehore, Madhya Pradesh",NA,NA
+"Poornima College of Engineering, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,Exams:  JEE Main 
+"Feroze Gandhi Institute of Engineering and Technology, Raebareli",B.Tech Aeronautical Engineering,"Raebareli, Uttar Pradesh",UPSEE,"Fees:  ₹ 3,39,818"
+"Park College of Engineering and Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"International Institute for Aerospace Engineering and Management, Jain University, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",NA,NA
+"GD Goenka School of Engineering, Gurgaon",B.Tech Agriculture Engineering,"Sohna, Haryana",NA,NA
+"Acharya NG Ranga Agricultural University, Guntur",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",AP,"Fees:  ₹ 97,200"
+"Sardar Vallabhbhai Patel Institute of Technology, Anand",BE Aeronautical Engineering,"Vasad, Gujarat",NA,"Fees:  ₹ 3,01,400"
+"Vaugh Institute of Agricultural Engineering and Technology, Allahabad",B.Tech Agricultural Engineering,"Allahabad, Uttar Pradesh",NA,NA
+"Dhanalakshmi Srinivasan College of Engineering, Perambalur",B.Tech Food Technology,"Perambalur, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Jeppiaar Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Rungta College of Engineering and Technology, Bhilai",BE Agriculture Engineering,"Bhilai, Chhattisgarh",JEE,"Fees:  ₹ 2,94,920"
+"Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",BE Aeronautical Engineering,"Nagpur, Maharashtra",NA,NA
+"Sri Shakthi Institute of Engineering and Technology, Coimbatore",BE Agricultural Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore",B.Tech Avionics,"Indore, Madhya Pradesh",JEE,"Fees:  ₹ 3,07,000"
+"North Eastern Regional Institute of Science and Technology, Nirjuli",B.Tech Agricultural Engineering,"Itanagar, Arunachal Pradesh",NA,"Fees:  ₹ 42,720"
+"Hindusthan Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Malumichampatty, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Mohamed Sathak Engineering College, Kilakarai",BE Aeronautical Engineering,"Kilakarai, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Bhagwant University, Ajmer",B.Tech Aeronautical Engineering,"Ajmer, Rajasthan",NA,Exams:  JEE Main 
+"Aditya Silver Oak Institute of Technology, Ahmedabad",B.Tech Aeronautical Engineering,"Ahmedabad, Gujarat",NA,"Fees:  ₹ 2,24,000"
+"Kalaignar Karunanidhi Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,NA
+"Aadishwar College of Technology, Gandhinagar",B.Tech Aeronautical Engineering,"Bhoyan Rathod, Gujarat",NA,"Exams:  JEE Main ,  GUJCET "
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Bapatla",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",AP,"Fees:  ₹ 97,200"
+"School of Aeronautics, Neemrana",B.Tech Aeronautical Engineering,"Neemrana, Rajasthan",NA,"Fees:  ₹ 7,37,000"
+"Sardar Patel University, Balaghat",B.Tech Agricultural Science,"Balaghat, Madhya Pradesh",NA,NA
+"Bidhan Chandra Krishi Vishwavidyalaya, Nadia",B.Tech Agricultural Engineering,"Manpur, West Bengal",NA,NA
+"Karavali Institute of Technology, Mangalore",BE Aeronautical Engineering,"Mangaluru, Karnataka",NA,"Fees:  ₹ 2,00,000"
+"GKM College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Kelappaji College of Agricultural Engineering and Technology, Tavanur",B.Tech Agricultural Engineering,"Tavanur, Kerala",NA,Exams:  KEAM 
+"Shyam University, Dausa",B.Tech Aeronautical Engineering,"Dausa, Rajasthan",NA,NA
+"Himalayan University, Itanagar",B.Tech Aeronautical Engineering,"Itanagar, Arunachal Pradesh",NA,NA
+"Bhagwan Arihant Institute of Technology, Surat",B.Tech Aeronautical Engineering,"Surat, Gujarat",NA,NA
+"Sir Chhotu Ram Institute of Engineering and Technology, Meerut",B.Tech Agricultural Engineering,"Meerut, Uttar Pradesh",UPSEE,"Fees:  ₹ 325,000"
+"Aditya College of Technology and Science, Satna",BE Agricultural Technology,"Satna, Madhya Pradesh",NA,Exams:  JEE Main 
+"Centurion Institute of Technology, Bhubaneswar",B.Tech Agriculture Engineering,"Khurdha, Odisha",JEE,"Fees:  ₹ 500,000"
+"Parul Institute of Engineering and Technology, Vadodara",B.Tech Aeronautical Engineering,"Vadodara, Gujarat",NA,"Fees:  ₹ 339,000"
+"Saveetha School of Engineering, Chennai",BE Agricultural Engineering,"Kuthambakkam, Tamil Nadu",NA,"Fees:  ₹ 535,000"
+"College of Agriculture, Bangalore",B.Tech Agricultural Engineering,"Bangalore, Karnataka",NA,NA
+"St Peter's University, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 300,000"
+"Dr Annasaheb Shinde College of Agricultural Engineering, Ahmednagar",B.Tech Agricultural Engineering,"Ahmednagar, Maharashtra",NA,NA
+"Dhanalakshmi Srinivasan Institute of Research and Technology, Perambalur",BE Agricultural Engineering,"Perambalur, Tamil Nadu",NA,NA
+"Manav Institute of Technology and Management, Hisar",B.Tech Aeronautical Engineering,"Hisar, Haryana",NA,NA
+"Agricultural Engineering College and Research Institute, Kumulur",B.Tech Agricultural Engineering,"Kumulur, Tamil Nadu",NA,NA
+Dr Rajendra Prasad Central Agricultural University Samastipur,B.Tech Agricultural Engineering,"Samastipur, Bihar",NA,NA
+"PSN College of Engineering and Technology, Tirunelveli",BE Aeronautical Engineering,"Melathediyoor, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jawaharlal College of Engineering and Technology, Palakkad",B.Tech Aeronautical Engineering,"Lakkidi, Kerala",KEAM,"Fees:  ₹ 396,000"
+"IFTM University, Moradabad",B.Tech Agricultural Engineering,"Lodhipur Rajput, Uttar Pradesh",NA,"Fees:  ₹ 408,000"
+"GITAM School of Technology, Hyderabad",B.Tech Aerospace Engineering,"Rudraram, Telangana",GITAM,"Fees:  ₹ 1,452,000"
+"ABR College of Engineering and Technology, Prakasam",B.Tech Agricultural Engineering,"Somanapalle, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Triguna Sen School of Technology, Assam University, Silchar",B.Tech Agricultural Engineering,"Silcoorie Grant, Assam",NA,NA
+"Kerala Agricultural University, Thrissur",B.Tech Agricultural Engineering,"Thrissur, Kerala",NA,NA
+"Singhania University, Jhunjhunu",B.Tech Aeronautical Engineering,"Rasoolpur, Rajasthan",NA,NA
+"Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies, Faridabad",B.Tech Aeronautical Engineering,"Faridabad, Haryana",JEE,"Fees:  ₹ 613,500"
+"Nova College of Engineering and Technology, Ibrahimpatnam",B.Tech Agricultural Engineering,"Vijayawada, Andhra Pradesh",NA,"Fees:  ₹ 140,000"
+"GS Mandal's Maharashtra Institute of Technology, Aurangabad",B.Tech Agricultural Engineering,"Aurangabad, Maharashtra",JEE,"Fees:  ₹ 336,000"
+"Nehru Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"Guru Kashi University, Talwandi Sabo",B.Tech Aeronautical Engineering,"Talwandi Sabo, Punjab",NA,NA
+"Khaja Banda Nawaz College of Engineering, Gulbarga",BE Aeronautical Engineering,"Gulbarga, Karnataka",KCET,"Fees:  ₹ 220,000"
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Rajendranagar",B.Tech Agricultural Engineering and Technology,"Lam, Andhra Pradesh",NA,NA
+"Visvesvaraya Technological University, Belagavi",B.Tech Aeronautical Engineering,"Belgaum, Karnataka",NA,"Fees:  ₹ 61,840"
+"Parul Institute of Technology, Vadodara",B.Tech Agricultural Engineering,"Limda, Gujarat",NA,NA
+"Bhubaneswar Engineering College, Bhubaneswar",B.Tech Aeronautical Engineering,"Bhubaneswar, Odisha",JEE,"Fees:  ₹ 252,000"
+"SRM Valliammai Engineering College, Kancheepuram",BE Agriculture Engineering,"Kancheepuram, Tamil Nadu",NA,"Fees:  ₹ 348,000"
+"Udaya School of Engineering, Kanyakumari",B.Tech Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,NA
+"Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",B.Tech Agricultural Engineering,"Parbhani, Maharashtra",NA,NA
+"KK Wagh College of Agricultural Engineering and Technology, Nashik",B.Tech Agricultural Engineering,"Sinnar, Maharashtra",MAHA,"Fees:  ₹ 227,400"
+"CMJ University, Shillong",B.Tech Aeronautical Engineering,"Shillong, Meghalaya",NA,NA
+"Paavai Engineering College, Pachal",BE Agriculture Engineering,"Puduchatram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering and Technology, Bhubaneswar",B.Tech Agricultural Engineering,"Bhubaneswar, Odisha",NA,NA
+"Dr Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli",B.Tech Agriculture Engineering,"Ratnagiri, Maharashtra",NA,NA
+"Amity University, Mumbai",B.Tech Aeronautical Engineering,"Navi Mumbai, Maharashtra",NA,"Fees:  ₹ 1,328,000"
+"Saroj Institute of Technology and Management, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",UPSEE,"Fees:  ₹ 340,000"
+"Nandha Engineering College, Erode",BE Agriculture Engineering,"Erode, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jagannath Institute for Technology and Management, Paralakhemundi",B.Tech Agriculture Engineering,"Uppalada, Odisha",JEE,"Fees:  ₹ 421,000"
+"Arunai Engineering College, Tiruvannamalai",BE Aeronautical Engineering,"Tiruvannamalai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"East West College of Engineering, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",NA,"Fees:  ₹ 2,000,000"
+"Rai University, Ahmedabad",B.Tech Agricultural Engineering,"Saroda, Gujarat",NA,"Fees:  ₹ 256,000"
+"William Carey University, Shillong",B.Tech Aeronautical Engineering,"Shillong, Meghalaya",NA,NA
+"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",B.Tech Aeronautical Engineering,"Thiruvananthapuram, Kerala",KEAM,"Fees:  ₹ 700,000"
+"Mahaveer Institute of Science and Technology, Hyderabad",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",TS,"Fees:  ₹ 240,000"
+"Baba Sahab Dr Bhim Rao Ambedkar College of Agricultural Engineering and Technology, Etawah",B.Tech Agriculture Engineering,"Etawah, Uttar Pradesh",NA,"Fees:  ₹ 270,000"
+"Parul University, Vadodara",B.Tech Aeronautical Engineering,"Waghodia, Gujarat",NA,NA
+"Mahendra Engineering College, Namakkal",BE Aeronautical Engineering,"Mallasamudram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering, Raichur",B.Tech Agricultural Engineering,"Raichur, Karnataka",NA,NA
+"Pydah College of Engineering, Kakinada",B.Tech Agricultural Engineering,"Chollangi Peta, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"ACE College of Engineering, Thiruvananthapuram",B.Tech Aeronautical Engineering,"Thiruvananthapuram, Kerala",NA,Exams:  KEAM 
+"Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib",B.Tech Agriculture Engineering,"Fatehgarh Sahib, Punjab",JEE,"Fees:  ₹ 298,000"
+"St Peter's College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Avadi, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"AKS University, Satna",B.Tech Agriculture Engineering,"Satna, Madhya Pradesh",NA,"Fees:  ₹ 320,000"
+"PM College of Engineering, Sonipat",B.Tech Aeronautical Engineering,"Bhuri, Haryana",NA,NA
+"Bharat Institute of Engineering and Technology, Ibrahimpatnam",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",NA,NA
+"RVS Technical Campus, Coimbatore",BE Agriculture Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Anand Agricultural University, Anand",B.Tech Agricultural Engineering,"Anand, Gujarat",NA,"Exams:  JEE Main ,  GUJCET "
+"Babu Banarasi Das National Institute of Technology and Management, Lucknow",B.Tech Aeronautical Engineering,"Lucknow, Uttar Pradesh",UPSEE,"Fees:  ₹ 453,212"
+"College of Agriculture, Hassan",B.Tech Food Science and Technology,"Karekere, Karnataka",NA,NA
+"Shri Ramswaroop Memorial University, Barabanki",B.Tech Agricultural Engineering,"Barabanki, Uttar Pradesh",NA,"Fees:  ₹ 365,000"
+"Shivdan Singh Institute of Technology and Management, Aligarh",B.Tech Agriculture Engineering,"Aligarh, Uttar Pradesh",UPSEE,"Fees:  ₹ 340,000"
+"Chatrapati Shivaji Maharaj College of Aviation Technology, Ambajogai",B.Tech Aeronautical Engineering,"Ambajogai, Maharashtra",NA,NA
+"Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur",B.Tech Agricultural Engineering,"Jabalpur, Madhya Pradesh",NA,NA
+"Dr DY Patil College of Agricultural Engineering and Technology, Kolhapur",B.Tech Agricultural Engineering,"Kolhapur, Maharashtra",NA,NA
+"Swarrnim Startup and Innovation University, Gandhinagar",B.Tech Aeronautical Engineering,"Bhoyan Rathod, Gujarat",NA,NA
+"ILM College of Engineering and Technology, Ernakulam",B.Tech Aeronautical Engineering,"Ernakulam, Kerala",KEAM,"Fees:  ₹ 360,000"
+"Jayoti Vidyapeeth Women's University, Jaipur",B.Tech Agricultural Engineering,"Jharna, Rajasthan",NA,"Fees:  ₹ 280,000"
+"Shriram College of Agriculture, Paniv",B.Tech Agricultural Engineering,"Khudus, Maharashtra",NA,NA
+"Rajasthan Technical University, Kota",B.Tech Aeronautical Engineering,"Kota, Rajasthan",JEE,"Fees:  ₹ 86,500"
+"Institute of People's Science and Technology, Chitrakoot",B.Tech Agriculture Engineering,"Satna, Madhya Pradesh",NA,NA
+"Mahatma Jyoti Rao Phoole University, Jaipur",B.Tech Agriculture Engineering,"Kalwad Kalan and Khurd, Rajasthan",NA,NA
+"Vikas College of Engineering and Technology, Vijayawada",B.Tech Agricultural Engineering,"Nunna, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Loyola Institute of Technology and Science, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Vivekananda College of Technology and Management, Aligarh",B.Tech Agricultural Engineering,"Aligarh, Uttar Pradesh",NA,"Exams:  JEE Main ,  UPSEE "
+"PK Institute of Technology and Management, Mathura",B.Tech Agricultural Engineering,"Birhana, Uttar Pradesh",NA,NA
+"Gandhi Institute for Technology, Bhubaneswar",B.Tech Agriculture Engineering,"Khurda, Odisha",NA,Exams:  OJEE 
+"AM Reddy Memorial College of Engineering and Technology, Narasaraopet",B.Tech Agricultural Engineering,"Petlurivaripalem, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"PK University, Shivpuri",B.Tech Agriculture,"Karera, Madhya Pradesh",NA,NA
+"RR Institute of Modern Technology, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 348,800"
+"Seth Vishambhar Nath Institute of Engineering and Technology, Barabanki",B.Tech Agricultural Engineering,"Barabanki, Uttar Pradesh",NA,NA
+"Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Mahabalipuram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Agricultural College and Research Institute, Tamil Nadu Agricultural University, Coimbatore",B.Tech Agricultural Information Technology,"Coimbatore, Tamil Nadu",NA,NA
+"Chhattisgarh Agriculture Engineering College, Durg",B.Tech Agricultural Engineering,"Durg, Chhattisgarh",NA,NA
+"College of Agricultural Engineering and Technology, Akola",B.Tech Agricultural Engineering,"Akola Rural, Maharashtra",NA,NA
+"SCT Institute of Technology, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",NA,NA
+"Sri Satya Sai Institute of Science and Technology, Sehore",B. Tech Aeronautical Engineering,"Sehore, Madhya Pradesh",NA,NA
+"Marwadi Education Foundation Group of Institutions, Rajkot",BE Agriculture Engineering,"Rajkot, Gujarat",NA,Exams:  GUJCET 
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Madakasira",B.Tech Agricultural Engineering,"Madakasira, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Gurukul Vidyapeeth Institute of Engineering and Technology, Patiala",B.Tech Aeronautical Engineering,"Jhansala, Punjab",NA,NA
+"Kakinada Institute of Technology and Science, Divili",B.Tech Agricultural Engineering,"Chandramampalli, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Samalkha Group of Institutions, Panipat",B.Tech Aeronautical Engineering,"Panipat, Haryana",JEE,"Fees:  ₹ 3,13,552"
+"Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir, Srinagar",B.Tech Agriculture Engineering,"Jammu, Jammu and Kashmir",NA,"Fees:  ₹ 1,37,200"
+"Shobhit Institute of Engineering and Technology, Meerut",B.Tech Agriinformatics,"Meerut, Uttar Pradesh",JEE,"Fees:  ₹ 4,10,000"
+"Noorul Islam Centre For Higher Education, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",JEE,"Fees:  ₹ 4,00,000"
+"Avanthi Institute of Engineering and Technology, Visakhapatnam",B.Tech Agricultural Engineering,"Kothapallem, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Sri Jayaram Institute of Engineering and Technology, Thiruvallur",BE Agriculture Engineering,"Gummudipoondi, Tamil Nadu",NA,NA
+"Mohammad Ali Jauhar University, Rampur",B.Tech Aeronautical Engineering,"Rampur, Uttar Pradesh",NA,NA
+"Gojan School of Business and Technology, Chennai",BE Aeronautical Engineering,"Nallur, Tamil Nadu",NA,NA
+"Vision Institute of Technology, Kanpur",B.Tech Agriculture Engineering,"Kanpur, Uttar Pradesh",NA,NA
+"Er Perumal Manimekalai College of Engineering, Hosur",BE Aeronautical Engineering,"Nallaganakothapalli, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Bansal Institute of Engineering and Technology, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 3,34,400"
+"RKDF University, Bhopal",B.Tech Agricultural Engineering,"Bhopal, Madhya Pradesh",NA,"Fees:  ₹ 2,00,000"
+"MATS School of Engineering and Information Technology, Raipur",B.Tech Aeronautical Engineering,"Arang, Chhattisgarh",NA,Exams:  JEE Main 
+"Manav Rachna International Institute of Research and Studies, Faridabad",B.Tech Aeronautical Engineering,"Faridabad, Haryana",JEE,"Fees:  ₹ 7,26,000"
+"North East Frontier Technical University, West Siang",B.Tech Aeronautical Engineering,"Aalo, Arunachal Pradesh",NA,NA
+"NOVA College of Engineering and Technology, Jangareddygudem",B.Tech Agriculture Engineering,"Vegavaram, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Sri Shanmugha College of Engineering and Technology, Salem",B.Tech Agricultural Engineering,"Tiruchengode, Tamil Nadu",NA,NA
+"Mohamed Sathak AJ College of Engineering, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,NA
+"Centurion University of Technology and Management, Paralakhemundi",B.Tech Agricultural Engineering,"Gajapati, Odisha",CUEE,"Fees:  ₹ 5,00,000"
+"Apollo Engineering College, Chennai",BE Aeronautical Engineering,"Poonamallee, Tamil Nadu",NA,"Fees:  ₹ 2,80,000"
+"Aurora's Scientific and Technological Institute, Ghatkesar",B.Tech Aeronautical Engineering,"Secunderabad, Telangana",TS,"Fees:  ₹ 2,61,100"
+"C Abdul Hakeem College of Engineering and Technology, Melvisharam",BE Aeronautical Engineering,"Melvisharam, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Rajas Engineering College, Vadakkangulam",B.Tech Aeronautical Engineering,"Vadakankulam, Tamil Nadu",NA,NA
+"International School of Technology and Sciences for Women, Rajahmundry",B.Tech Agriculture Engineering,"Rajanagaram, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Chitrakoot",B.Tech Agricultural Engineering,"Satna, Madhya Pradesh",NA,NA
+"Rama University, Kanpur",B.Tech Agricultural Engineering,"Mandhana, Uttar Pradesh",NA,NA
+"Mount Zion College of Engineering, Pathanamthitta",B.Tech Aeronautical Engineering,"Kadammanitta, Kerala",NA,"Fees:  ₹ 140,000"
+"PB College of Engineering, Kancheepuram",BE Aeronautical Engineering,"Kancheepuram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Infant Jesus College of Engineering, Thoothukudi",BE Aeronautical Engineering,"Thoothukudi, Tamil Nadu",NA,NA
+"Jawaharlal Institute of Technology, Coimbatore",Aeronautical Engineerin,"Thirumalayampalayam, Tamil Nadu",NA,NA
+"SR Institute of Management and Technology, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 339,600"
+"Shekhawati Institute of Engineering and Technology, Sikar",B.Tech Agricultural Engineering,"Sikar, Rajasthan",NA,NA
+"Shree Devi Institute of Technology, Mangalore",BE Aeronautical Engineering,"Mangaluru, Karnataka",KCET,"Fees:  ₹ 154,000"
+"Uttar Banga Krishi Viswavidyalaya, Pundibari",B.Tech Agricultural Engineering,"Pundibari, West Bengal",NA,NA
+"Sri Vatsavai Krishnam Raju College of Engineering and Technology, West Godavari",B.Tech Agricultural Engineering,"Kumudavalli, Andhra Pradesh",NA,NA
+"Arasu Engineering College, Kumbakonam",BE Agriculture Engineering,"Kallappuliyur, Tamil Nadu",NA,NA
+"Swami Vivekanand College of Agricultural Engineering and Technology and Research Station, Raipur",B.Tech Agricultural Engineering,"Raipur, Chhattisgarh",NA,NA
+"Surya College of Engineering and Technology, Villupuram",BE Aeronautical Engineering,"Salai, Tamil Nadu",NA,NA
+"Aurora's Research and Technological Institute, Warangal",B.Tech Agricultural Engineering,"Warangal, Telangana",NA,NA
+"Lord Jegannath College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"RVS School of Engineering and Technology, Dindigul",BE Aeronautical Engineering,"Padiyur, Tamil Nadu",NA,NA
+"Sha-Shib College of Engineering, Chikkaballapur",BE Aeronautical Engineering,"Batthalahalli, Karnataka",NA,NA
+"Aligarh College of Engineering and Technology, Aligarh",B.Tech Agricultural Engineering,"Aligarh, Uttar Pradesh",JEE,"Fees:  ₹ 220,000"
+"Maria College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Attoor, Tamil Nadu",NA,NA
+"The Kavery College of Engineering, Salem",BE Agricultural Engineering,"M.Kalipatti, Tamil Nadu",NA,NA
+"College of Food Science and Technology, Bapatla",B.Tech Food Technology,"Bapatla, Andhra Pradesh",NA,NA
+"Satyam College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Aralvaimozhi, Tamil Nadu",NA,NA
+"JJ College of Engineering and Technology, Tiruchirappalli",BE Aeronautical Engineering,"Poolangulathupatti, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"NIMRA Institute of Science and Technology, Ibrahimpatnam",B.Tech Aeronautical Engineering,"Ibrahimpatnam, Telangana",NA,Exams:  AP EAMCET 
+"Madha Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Shahjehan College of Engineering and Technology, Chevella",B.Tech Aeronautical Engineering,"Chevella, Telangana",NA,Exams:  TS EAMCET 
+"SKP Engineering College, Tiruvannamalai",BE Aeronautical Engineering,"Malappambadi, Tamil Nadu",NA,NA
+"MATS University, Raipur",B.Tech Aeronautical Engineering,"Gullu, Chhattisgarh",NA,NA
+"Dr Panjabrao Deshmukh Krishi Vidyapeeth, Akola",B.Tech Agriculture Engineering,"Akola, Maharashtra",NA,NA
+"Shobhit University, Gangoh",B.Tech Agriculture Informatics,"Mohammadpur Road, Uttar Pradesh",JEE,"Fees:  ₹ 331,100"
+"Junagadh Agricultural University, Junagadh",B.Tech Agriculture Engineering,"Junagadh, Gujarat",NA,NA
+"Bharti College of Agricultural Engineering, Durg",B.Tech Agricultural Engineering,"Durg, Chhattisgarh",NA,NA
+"Institute of Technology and Management, Lucknow",B.Tech Agricultural Engineering,"Navi Kot Nandana, Uttar Pradesh",UPSEE,"Fees:  ₹ 305,000"
+"Achutha Institute of Technology, Chikkaballapur",BE Aeronautical Engineering,"Thangadikunte, Karnataka",KCET,"Fees:  ₹ 132,000"
+"Jayam College of Engineering and Technology, Dharmapuri",BE Aeronautical Engineering,"Dharmapuri, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jaya Engineering College, Chennai",BE Aeronautical Engineering,"Thirunindravur, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering and Post Harvest Technology, Gangtok",B.Tech Agricultural Engineering,"Gangtok, Sikkim",NA,NA
+"Bhawani Sao Ramlal Sao Memorial College of Agricultural Engineering and Technology and Research Station, Mungeli",B.Tech Agricultural Engineering,"Mungeli, Chhattisgarh",NA,NA
+"Lumbini Group of Institutions, Hyderabad",B.Tech Agricultural Engineering,"Bhuvanagiri, Telangana",NA,NA
+"Suresh Gyan Vihar University, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,"Fees:  ₹ 480,000"
+"Maharana Pratap University of Agriculture and Technology, Udaipur",B.Tech Agricultural Engineering,"Udaipur, Rajasthan",NA,Exams:  JEE Main 
+"Kaushik College of Engineering, Visakhapatnam",B.Tech Aeronautical Engineering,"Tallavalasa, Andhra Pradesh",NA,"Fees:  ₹ 140,000"
+"Thiruvalluvar College of Engineering and Technology, Vandavasi",B.Tech Aeronautical Engineering,"Ponnur Malai, Tamil Nadu",NA,NA
+"Sri Ramakrishna College of Engineering, Perambalur",BE Agricultural Engineering,"Siruvachur, Tamil Nadu",NA,NA
+"Mahendra Institute of Engineering and Technology, Tiruchengode",BE Aeronautical Engineering,"Tiruchengode, Tamil Nadu",NA,NA
+"Park College of Technology, Karumathampatti",BE Aeronautical Engineering,"Karumathampatti, Tamil Nadu",NA,NA
+"Arunai College of Engineering, Tiruvannamalai",BE Agriculture Engineering,"Thenmathur, Tamil Nadu",NA,NA
+"Babu Sunder Singh Institute of Technology and Management, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,NA
+"RK University, Rajkot",B.Tech Agricultural Engineering,"Rajkot, Gujarat",NA,"Fees:  ₹ 260,000"
+"PMR Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,NA
+"MAM School of Engineering, Siruganur",BE Aeronautical Engineering,"Siruganur, Tamil Nadu",NA,NA
+"Tudi Ram Reddy Institute of Technology and Science, Hyderabad",B.Tech Agriculture Engineering,"Gudur, Telangana",NA,NA
+"Maheshwara Institute of Technology, Patancheru",B. Tech Aeronautical Engineering,"Hyderabad, Telangana",NA,NA
+"Tagore Engineering College, Chennai",BE Aeronautical Engineering,"Rathinamangalam, Tamil Nadu",JEE,"Fees:  ₹ 200,000"
+"Kakinada Institute of Technological Sciences, Ramachandrapuram",B.Tech Agricultural Engineering,"Ambikapalli Agrahaaram, Andhra Pradesh",AP,"Fees:  ₹ 140,000"
+"Doon College of Engineering and Technology, Saharanpur",B.Tech Agricultural Engineering,"Saharanpur, Uttar Pradesh",NA,NA
+"Adusumilli Vijaya Institute of Technology and Research Centre, Nalgonda",B.Tech Agricultural Engineering,"Nalgonda, Telangana",NA,Exams:  TS EAMCET 
+"Punjab State Aeronautical Engineering College, Patiala",B.Tech Aeronautical Engineering,"Patiala, Punjab",NA,NA
+"Raffles University, Neemrana",B.Tech Agricultural Engineering,"Neemrana, Rajasthan",NA,"Fees:  ₹ 398,000"
+"Vijaya Engineering College, Khammam",B.Tech Agriculture Engineering,"Khammam, Telangana",NA,NA
+"Muthayammal College of Engineering, Namakkal",BE Agriculture Engineering,"Rasipuram, Tamil Nadu",NA,NA
+"Surendra Group of Institutions, Sri Ganganagar",B.Tech Agricultural Engineering,"Sri Ganganagar, Rajasthan",JEE,"Fees:  ₹ 318,500"
+"Himalayan Institute of Technology and Management, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,NA
+"Gopal Ramalingam Memorial Engineering College, Chennai",BE Aeronautical Engineering,"Vattampakkam, Tamil Nadu",NA,NA
+"ACN College of Engineering and Management Studies, Aligarh",B.Tech Agricultural Engineering,"Chherat, Uttar Pradesh",NA,Exams:  UPSEE 
+"Tudi Ram Reddy Institute of Technology and Science, Bibinagar",B.Tech Agricultural Engineering,"Gudur, Telangana",NA,Exams:  TS EAMCET 
+"Rajaas Engineering College, Tirunelveli",BE Aeronautical Engineering,"Adangarkulam, Tamil Nadu",NA,NA
+"Adusumalli Vijaya College of Engineering and Research Centre, Nalgonda",B.Tech Agricultural Engineering,"Bommalramaram, Telangana",NA,NA
+"Immanuel Araser JJ college of Engineering, Kanyakumari",BE Aeronautical Engineering,"Marthandam, Tamil Nadu",NA,NA
+"Vikas Group of Institutions, Vijayawada",B.Tech Agricultural Engineering,"Vijayawada, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Bikaner Technical University, Bikaner",B.Tech Aeronautical Engineering,"Bikaner, Rajasthan",NA,NA
+"Rai Technology University, Bangalore",B.Tech Agriculture,"Doddabelavangala, Karnataka",NA,NA
+"Narendra Deva University of Agriculture and Technology, Faizabad",B.Tech Agricultural Engineering,"Kumarganj, Uttar Pradesh",NA,NA
+"Sanskriti Institute of Management and Technology, Mathura",B.Tech Agriculture Engineering,"Chhata, Uttar Pradesh",NA,NA
+"Vision Institute of Technology, Aligarh",B.Tech Agriculture Engineering,"Bilgram, Uttar Pradesh",UPSEE,"Fees:  ₹ 293,000"
+"Marathwada Institute of Technology, Bulandshahr",B.Tech Agricultural Engineering,"Bulandshahr, Uttar Pradesh",UPSEE,"Fees:  ₹ 232,000"
+"Nigama Engineering College, Karim Nagar",B.Tech Agriculture Engineering,"Thaher Kondapur, Telangana",NA,NA
+"Dr ZH Institute of Technology and Management, Firozabad",B.Tech Agricultural Engineering,"Satauli, Uttar Pradesh",NA,NA
+"Maharaja Ranjit Singh Punjab Technical University, Bathinda",B.Tech Aeronautical Engineering,"Bathinda, Punjab",NA,NA
+"SKP Institute of Technology, Tiruvannamalai",BE Aeronautical Engineering,"Tiruvannamalai, Tamil Nadu",NA,NA
+"MJRP College of Engineering and Technology, Jaipur",B. Tech Agriculture Engineering,"Jaipur, Rajasthan",NA,NA
+"Parisutham Institute of Technology and Science, Thanjavur",BE Aeronautical Engineering,"Inathukanpatti, Tamil Nadu",NA,"Fees:  ₹ 395,600"
+"Paavaai Group of Institutions- School of Engineering, Pachal",B. Tech Aeronautical Engineering,"Pachal, Tamil Nadu",NA,NA
+"Infant Jesus College of Engineering and Technology, Thoothukudi",BE Aeronautical Engineering,"Vallanadu, Tamil Nadu",NA,NA
+"Central Agricultural University, Imphal",B.Tech Agriculture Engineering,"Imphal, Manipur",NA,NA
+"Tamizhan College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Chenbagaramanputhoor, Tamil Nadu",NA,NA
+"Surya School of Engineering and Technology, Villupuram",BE Aeronautical Engineering,"Villupuram, Tamil Nadu",NA,NA
+"Srinivasan Engineering College, Perambalur",BE Aeronautical Engineering,"Perambalur, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Bandari Srinivas College of Engineering and Technology, Ranga Reddy",Aeronautical Engineering,"Dharmasagar, Telangana",NA,NA
+"Sethu Institute of Technology, Kariapatti",BE Agriculture Engineering,"S.Kallupatti, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Srinivas Institute of Technology, Mangalore",BE Aeronautical Engineering,"Arkula, Karnataka",COMEDK,"Fees:  ₹ 316,000"
+"SNS College of Technology, Coimbatore",BE Agricultural Engineering,"Kurumbapalayam, Tamil Nadu",NA,"Fees:  ₹ 220,000"
+"ACS College of Engineering, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",NA,"Exams:  JEE Main ,  COMEDK UGET ,  KCET "
+"Dr MGR Educational and Research Institute, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",JEE,"Fees:  ₹ 640,000"
+"Vignan's Foundation for Science Technology and Research, Guntur",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",JEE,"Fees:  ₹ 500,000"
+"Saveetha Engineering College, Chennai",BE Agriculture Engineering,"Chennai, Tamil Nadu",NA,NA
+"The Institutions of Engineers India, Kolkata",B.Tech Agricultural Engineering,"Kolkata, West Bengal",NA,NA
+"OPJS University, Rajgarh",B.Tech Agricultural Engineering,"Churu, Rajasthan",NA,NA
+"Priyadarshini College of Engineering, Nagpur",BE Aeronautical Engineering,"Nagpur, Maharashtra",JEE,"Fees:  ₹ 416,000"
+"Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",VTUEEE,"Fees:  ₹ 1,060,000"
+"Silver Oak College of Engineering and Technology, Ahmedabad",B.Tech Aeronautical Engineering,"Ahmedabad, Gujarat",NA,"Fees:  ₹ 300,000"
+"Sai Nath University, Ranchi",B.Tech Agricultural Engineering,"Ranchi, Jharkhand",NA,NA
+"Mahatma Phule Krishi Vidyapeeth, Rahuri",B.Tech Agricultural Engineering,"Digras, Maharashtra",NA,NA
+"NIMS University, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,"Fees:  ₹ 320,000"
+"Annasaheb Dange College of Engineering and Technology, Sangli",BE Aeronautical Engineering,"Ashta, Maharashtra",JEE,"Fees:  ₹ 316,000"
+"Bharath Institute of Higher Education and Research, Chennai",B.Tech Aeronautical Engineering,"Chennai, Tamil Nadu",BEEE,"Fees:  ₹ 600,000"
+"Amity University, Noida",B.Tech Aeronautical Engineering,"Noida, Uttar Pradesh",Amity,"Fees:  ₹ 1,244,000"
+"ITM University, Gwalior",B.Tech Agricultural Engineering,"Gwalior, Madhya Pradesh",JEE,"Fees:  ₹ 580,000"
+"Adhiyamaan College of Engineering, Hosur",BE Aeronautical Engineering,"Krishnagiri, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"SJC Institute of Technology, Chickballapur",BE Aeronautical Engineering,"Chikkaballapura, Karnataka",JEE,"Fees:  ₹ 280,000"
+"Swami Vivekanand University, Sagar",B.Tech Aeronautical Engineering,"Sironja, Madhya Pradesh",NA,NA
+"Siddhartha Institute of Engineering and Technology, Puttur",B.Tech Agricultural Engineering,"Puttur, Andhra Pradesh",AP,"Fees:  ₹ 290,000"
+"KCG College of Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 220,000"
+"Mangalore Institute of Technology and Engineering, Mangalore",BE Aeronautical Engineering,"Mangalore, Karnataka",NA,"Fees:  ₹ 500,000"
+"Centurion University of Technology and Management, Bhubaneswar",B.Tech Agriculture Engineering,"Khurda, Odisha",JEE,"Fees:  ₹ 500,000"
+"College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur",B.Tech Agricultural Engineering,"Udaipur, Rajasthan",JEE,"Fees:  ₹ 191,290"
+"Excel Engineering College, Namakkal",BE Aeronautical Engineering,"Pallakapalayam, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Kalasalingam Academy of Research and Education, Virudhunagar",B.Tech Agriculture Engineering,"Krishnan Kovil, Tamil Nadu",NA,"Fees:  ₹ 530,000"
+"Desh Bhagat University, Mandi Gobindgarh",B.Tech Aeronautical Engineering,"Mandi Gobindgarh, Punjab",NA,NA
+"Nehru Institute of Engineering and Technology, Coimbatore",BE Aeronautical Engineering,"Thirumalayampalayam, Tamil Nadu",NA,"Fees:  ₹ 2,80,000"
+"Chaudhary Charan Singh Haryana Agricultural University, Hisar",B.Tech Agricultural Engineering,"Hisar, Haryana",NA,Exams:  JEE Main 
+"College of Agricultural Engineering and Technology, Punjab Agricultural University, Ludhiana",B.Tech Agricultural Engineering,"Ludhiana, Punjab",JEE,"Fees:  ₹ 3,22,790"
+"Sri Satya Sai University of Technology and Medical Sciences, Sehore",BE Aeronautical Engineering,"Sehore, Madhya Pradesh",NA,NA
+"Poornima College of Engineering, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,Exams:  JEE Main 
+"Feroze Gandhi Institute of Engineering and Technology, Raebareli",B.Tech Aeronautical Engineering,"Raebareli, Uttar Pradesh",UPSEE,"Fees:  ₹ 3,39,818"
+"Park College of Engineering and Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"International Institute for Aerospace Engineering and Management, Jain University, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",NA,NA
+"GD Goenka School of Engineering, Gurgaon",B.Tech Agriculture Engineering,"Sohna, Haryana",NA,NA
+"Acharya NG Ranga Agricultural University, Guntur",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",AP,"Fees:  ₹ 97,200"
+"Sardar Vallabhbhai Patel Institute of Technology, Anand",BE Aeronautical Engineering,"Vasad, Gujarat",NA,"Fees:  ₹ 3,01,400"
+"Vaugh Institute of Agricultural Engineering and Technology, Allahabad",B.Tech Agricultural Engineering,"Allahabad, Uttar Pradesh",NA,NA
+"Dhanalakshmi Srinivasan College of Engineering, Perambalur",B.Tech Food Technology,"Perambalur, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Jeppiaar Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Rungta College of Engineering and Technology, Bhilai",BE Agriculture Engineering,"Bhilai, Chhattisgarh",JEE,"Fees:  ₹ 2,94,920"
+"Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",BE Aeronautical Engineering,"Nagpur, Maharashtra",NA,NA
+"Sri Shakthi Institute of Engineering and Technology, Coimbatore",BE Agricultural Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore",B.Tech Avionics,"Indore, Madhya Pradesh",JEE,"Fees:  ₹ 3,07,000"
+"North Eastern Regional Institute of Science and Technology, Nirjuli",B.Tech Agricultural Engineering,"Itanagar, Arunachal Pradesh",NA,"Fees:  ₹ 42,720"
+"Hindusthan Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Malumichampatty, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Mohamed Sathak Engineering College, Kilakarai",BE Aeronautical Engineering,"Kilakarai, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Bhagwant University, Ajmer",B.Tech Aeronautical Engineering,"Ajmer, Rajasthan",NA,Exams:  JEE Main 
+"Aditya Silver Oak Institute of Technology, Ahmedabad",B.Tech Aeronautical Engineering,"Ahmedabad, Gujarat",NA,"Fees:  ₹ 2,24,000"
+"Kalaignar Karunanidhi Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,NA
+"Aadishwar College of Technology, Gandhinagar",B.Tech Aeronautical Engineering,"Bhoyan Rathod, Gujarat",NA,"Exams:  JEE Main ,  GUJCET "
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Bapatla",B.Tech Agricultural Engineering,"Guntur, Andhra Pradesh",AP,"Fees:  ₹ 97,200"
+"School of Aeronautics, Neemrana",B.Tech Aeronautical Engineering,"Neemrana, Rajasthan",NA,"Fees:  ₹ 7,37,000"
+"Sardar Patel University, Balaghat",B.Tech Agricultural Science,"Balaghat, Madhya Pradesh",NA,NA
+"Bidhan Chandra Krishi Vishwavidyalaya, Nadia",B.Tech Agricultural Engineering,"Manpur, West Bengal",NA,NA
+"Karavali Institute of Technology, Mangalore",BE Aeronautical Engineering,"Mangaluru, Karnataka",NA,"Fees:  ₹ 2,00,000"
+"GKM College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Kelappaji College of Agricultural Engineering and Technology, Tavanur",B.Tech Agricultural Engineering,"Tavanur, Kerala",NA,Exams:  KEAM 
+"Shyam University, Dausa",B.Tech Aeronautical Engineering,"Dausa, Rajasthan",NA,NA
+"Himalayan University, Itanagar",B.Tech Aeronautical Engineering,"Itanagar, Arunachal Pradesh",NA,NA
+"Bhagwan Arihant Institute of Technology, Surat",B.Tech Aeronautical Engineering,"Surat, Gujarat",NA,NA
+"Sir Chhotu Ram Institute of Engineering and Technology, Meerut",B.Tech Agricultural Engineering,"Meerut, Uttar Pradesh",UPSEE,"Fees:  ₹ 325,000"
+"Aditya College of Technology and Science, Satna",BE Agricultural Technology,"Satna, Madhya Pradesh",NA,Exams:  JEE Main 
+"Centurion Institute of Technology, Bhubaneswar",B.Tech Agriculture Engineering,"Khurdha, Odisha",JEE,"Fees:  ₹ 500,000"
+"Parul Institute of Engineering and Technology, Vadodara",B.Tech Aeronautical Engineering,"Vadodara, Gujarat",NA,"Fees:  ₹ 339,000"
+"Saveetha School of Engineering, Chennai",BE Agricultural Engineering,"Kuthambakkam, Tamil Nadu",NA,"Fees:  ₹ 535,000"
+"College of Agriculture, Bangalore",B.Tech Agricultural Engineering,"Bangalore, Karnataka",NA,NA
+"St Peter's University, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 300,000"
+"Dr Annasaheb Shinde College of Agricultural Engineering, Ahmednagar",B.Tech Agricultural Engineering,"Ahmednagar, Maharashtra",NA,NA
+"Dhanalakshmi Srinivasan Institute of Research and Technology, Perambalur",BE Agricultural Engineering,"Perambalur, Tamil Nadu",NA,NA
+"Manav Institute of Technology and Management, Hisar",B.Tech Aeronautical Engineering,"Hisar, Haryana",NA,NA
+"Agricultural Engineering College and Research Institute, Kumulur",B.Tech Agricultural Engineering,"Kumulur, Tamil Nadu",NA,NA
+Dr Rajendra Prasad Central Agricultural University Samastipur,B.Tech Agricultural Engineering,"Samastipur, Bihar",NA,NA
+"PSN College of Engineering and Technology, Tirunelveli",BE Aeronautical Engineering,"Melathediyoor, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jawaharlal College of Engineering and Technology, Palakkad",B.Tech Aeronautical Engineering,"Lakkidi, Kerala",KEAM,"Fees:  ₹ 396,000"
+"IFTM University, Moradabad",B.Tech Agricultural Engineering,"Lodhipur Rajput, Uttar Pradesh",NA,"Fees:  ₹ 408,000"
+"GITAM School of Technology, Hyderabad",B.Tech Aerospace Engineering,"Rudraram, Telangana",GITAM,"Fees:  ₹ 1,452,000"
+"ABR College of Engineering and Technology, Prakasam",B.Tech Agricultural Engineering,"Somanapalle, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Triguna Sen School of Technology, Assam University, Silchar",B.Tech Agricultural Engineering,"Silcoorie Grant, Assam",NA,NA
+"Kerala Agricultural University, Thrissur",B.Tech Agricultural Engineering,"Thrissur, Kerala",NA,NA
+"Singhania University, Jhunjhunu",B.Tech Aeronautical Engineering,"Rasoolpur, Rajasthan",NA,NA
+"Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies, Faridabad",B.Tech Aeronautical Engineering,"Faridabad, Haryana",JEE,"Fees:  ₹ 613,500"
+"Nova College of Engineering and Technology, Ibrahimpatnam",B.Tech Agricultural Engineering,"Vijayawada, Andhra Pradesh",NA,"Fees:  ₹ 140,000"
+"GS Mandal's Maharashtra Institute of Technology, Aurangabad",B.Tech Agricultural Engineering,"Aurangabad, Maharashtra",JEE,"Fees:  ₹ 336,000"
+"Nehru Institute of Technology, Coimbatore",BE Aeronautical Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"Guru Kashi University, Talwandi Sabo",B.Tech Aeronautical Engineering,"Talwandi Sabo, Punjab",NA,NA
+"Khaja Banda Nawaz College of Engineering, Gulbarga",BE Aeronautical Engineering,"Gulbarga, Karnataka",KCET,"Fees:  ₹ 220,000"
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Rajendranagar",B.Tech Agricultural Engineering and Technology,"Lam, Andhra Pradesh",NA,NA
+"Visvesvaraya Technological University, Belagavi",B.Tech Aeronautical Engineering,"Belgaum, Karnataka",NA,"Fees:  ₹ 61,840"
+"Parul Institute of Technology, Vadodara",B.Tech Agricultural Engineering,"Limda, Gujarat",NA,NA
+"Bhubaneswar Engineering College, Bhubaneswar",B.Tech Aeronautical Engineering,"Bhubaneswar, Odisha",JEE,"Fees:  ₹ 252,000"
+"SRM Valliammai Engineering College, Kancheepuram",BE Agriculture Engineering,"Kancheepuram, Tamil Nadu",NA,"Fees:  ₹ 348,000"
+"Udaya School of Engineering, Kanyakumari",B.Tech Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,NA
+"Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",B.Tech Agricultural Engineering,"Parbhani, Maharashtra",NA,NA
+"KK Wagh College of Agricultural Engineering and Technology, Nashik",B.Tech Agricultural Engineering,"Sinnar, Maharashtra",MAHA,"Fees:  ₹ 227,400"
+"CMJ University, Shillong",B.Tech Aeronautical Engineering,"Shillong, Meghalaya",NA,NA
+"Paavai Engineering College, Pachal",BE Agriculture Engineering,"Puduchatram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering and Technology, Bhubaneswar",B.Tech Agricultural Engineering,"Bhubaneswar, Odisha",NA,NA
+"Dr Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli",B.Tech Agriculture Engineering,"Ratnagiri, Maharashtra",NA,NA
+"Amity University, Mumbai",B.Tech Aeronautical Engineering,"Navi Mumbai, Maharashtra",NA,"Fees:  ₹ 1,328,000"
+"Saroj Institute of Technology and Management, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",UPSEE,"Fees:  ₹ 340,000"
+"Nandha Engineering College, Erode",BE Agriculture Engineering,"Erode, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jagannath Institute for Technology and Management, Paralakhemundi",B.Tech Agriculture Engineering,"Uppalada, Odisha",JEE,"Fees:  ₹ 421,000"
+"Arunai Engineering College, Tiruvannamalai",BE Aeronautical Engineering,"Tiruvannamalai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"East West College of Engineering, Bangalore",BE Aeronautical Engineering,"Bangalore, Karnataka",NA,"Fees:  ₹ 2,000,000"
+"Rai University, Ahmedabad",B.Tech Agricultural Engineering,"Saroda, Gujarat",NA,"Fees:  ₹ 256,000"
+"William Carey University, Shillong",B.Tech Aeronautical Engineering,"Shillong, Meghalaya",NA,NA
+"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",B.Tech Aeronautical Engineering,"Thiruvananthapuram, Kerala",KEAM,"Fees:  ₹ 700,000"
+"Mahaveer Institute of Science and Technology, Hyderabad",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",TS,"Fees:  ₹ 240,000"
+"Baba Sahab Dr Bhim Rao Ambedkar College of Agricultural Engineering and Technology, Etawah",B.Tech Agriculture Engineering,"Etawah, Uttar Pradesh",NA,"Fees:  ₹ 270,000"
+"Parul University, Vadodara",B.Tech Aeronautical Engineering,"Waghodia, Gujarat",NA,NA
+"Mahendra Engineering College, Namakkal",BE Aeronautical Engineering,"Mallasamudram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering, Raichur",B.Tech Agricultural Engineering,"Raichur, Karnataka",NA,NA
+"Pydah College of Engineering, Kakinada",B.Tech Agricultural Engineering,"Chollangi Peta, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"ACE College of Engineering, Thiruvananthapuram",B.Tech Aeronautical Engineering,"Thiruvananthapuram, Kerala",NA,Exams:  KEAM 
+"Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib",B.Tech Agriculture Engineering,"Fatehgarh Sahib, Punjab",JEE,"Fees:  ₹ 298,000"
+"St Peter's College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Avadi, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"AKS University, Satna",B.Tech Agriculture Engineering,"Satna, Madhya Pradesh",NA,"Fees:  ₹ 320,000"
+"PM College of Engineering, Sonipat",B.Tech Aeronautical Engineering,"Bhuri, Haryana",NA,NA
+"Bharat Institute of Engineering and Technology, Ibrahimpatnam",B.Tech Aeronautical Engineering,"Hyderabad, Telangana",NA,NA
+"RVS Technical Campus, Coimbatore",BE Agriculture Engineering,"Coimbatore, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Anand Agricultural University, Anand",B.Tech Agricultural Engineering,"Anand, Gujarat",NA,"Exams:  JEE Main ,  GUJCET "
+"Babu Banarasi Das National Institute of Technology and Management, Lucknow",B.Tech Aeronautical Engineering,"Lucknow, Uttar Pradesh",UPSEE,"Fees:  ₹ 453,212"
+"College of Agriculture, Hassan",B.Tech Food Science and Technology,"Karekere, Karnataka",NA,NA
+"Shri Ramswaroop Memorial University, Barabanki",B.Tech Agricultural Engineering,"Barabanki, Uttar Pradesh",NA,"Fees:  ₹ 365,000"
+"Shivdan Singh Institute of Technology and Management, Aligarh",B.Tech Agriculture Engineering,"Aligarh, Uttar Pradesh",UPSEE,"Fees:  ₹ 340,000"
+"Chatrapati Shivaji Maharaj College of Aviation Technology, Ambajogai",B.Tech Aeronautical Engineering,"Ambajogai, Maharashtra",NA,NA
+"Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur",B.Tech Agricultural Engineering,"Jabalpur, Madhya Pradesh",NA,NA
+"Dr DY Patil College of Agricultural Engineering and Technology, Kolhapur",B.Tech Agricultural Engineering,"Kolhapur, Maharashtra",NA,NA
+"Swarrnim Startup and Innovation University, Gandhinagar",B.Tech Aeronautical Engineering,"Bhoyan Rathod, Gujarat",NA,NA
+"ILM College of Engineering and Technology, Ernakulam",B.Tech Aeronautical Engineering,"Ernakulam, Kerala",KEAM,"Fees:  ₹ 360,000"
+"Jayoti Vidyapeeth Women's University, Jaipur",B.Tech Agricultural Engineering,"Jharna, Rajasthan",NA,"Fees:  ₹ 280,000"
+"Shriram College of Agriculture, Paniv",B.Tech Agricultural Engineering,"Khudus, Maharashtra",NA,NA
+"Rajasthan Technical University, Kota",B.Tech Aeronautical Engineering,"Kota, Rajasthan",JEE,"Fees:  ₹ 86,500"
+"Institute of People's Science and Technology, Chitrakoot",B.Tech Agriculture Engineering,"Satna, Madhya Pradesh",NA,NA
+"Mahatma Jyoti Rao Phoole University, Jaipur",B.Tech Agriculture Engineering,"Kalwad Kalan and Khurd, Rajasthan",NA,NA
+"Vikas College of Engineering and Technology, Vijayawada",B.Tech Agricultural Engineering,"Nunna, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Loyola Institute of Technology and Science, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Vivekananda College of Technology and Management, Aligarh",B.Tech Agricultural Engineering,"Aligarh, Uttar Pradesh",NA,"Exams:  JEE Main ,  UPSEE "
+"PK Institute of Technology and Management, Mathura",B.Tech Agricultural Engineering,"Birhana, Uttar Pradesh",NA,NA
+"Gandhi Institute for Technology, Bhubaneswar",B.Tech Agriculture Engineering,"Khurda, Odisha",NA,Exams:  OJEE 
+"AM Reddy Memorial College of Engineering and Technology, Narasaraopet",B.Tech Agricultural Engineering,"Petlurivaripalem, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"PK University, Shivpuri",B.Tech Agriculture,"Karera, Madhya Pradesh",NA,NA
+"RR Institute of Modern Technology, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 348,800"
+"Seth Vishambhar Nath Institute of Engineering and Technology, Barabanki",B.Tech Agricultural Engineering,"Barabanki, Uttar Pradesh",NA,NA
+"Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai",BE Aeronautical Engineering,"Mahabalipuram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Agricultural College and Research Institute, Tamil Nadu Agricultural University, Coimbatore",B.Tech Agricultural Information Technology,"Coimbatore, Tamil Nadu",NA,NA
+"Chhattisgarh Agriculture Engineering College, Durg",B.Tech Agricultural Engineering,"Durg, Chhattisgarh",NA,NA
+"College of Agricultural Engineering and Technology, Akola",B.Tech Agricultural Engineering,"Akola Rural, Maharashtra",NA,NA
+"SCT Institute of Technology, Bangalore",B.Tech Aeronautical Engineering,"Bangalore, Karnataka",NA,NA
+"Sri Satya Sai Institute of Science and Technology, Sehore",B. Tech Aeronautical Engineering,"Sehore, Madhya Pradesh",NA,NA
+"Marwadi Education Foundation Group of Institutions, Rajkot",BE Agriculture Engineering,"Rajkot, Gujarat",NA,Exams:  GUJCET 
+"College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Madakasira",B.Tech Agricultural Engineering,"Madakasira, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Gurukul Vidyapeeth Institute of Engineering and Technology, Patiala",B.Tech Aeronautical Engineering,"Jhansala, Punjab",NA,NA
+"Kakinada Institute of Technology and Science, Divili",B.Tech Agricultural Engineering,"Chandramampalli, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Samalkha Group of Institutions, Panipat",B.Tech Aeronautical Engineering,"Panipat, Haryana",JEE,"Fees:  ₹ 3,13,552"
+"Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir, Srinagar",B.Tech Agriculture Engineering,"Jammu, Jammu and Kashmir",NA,"Fees:  ₹ 1,37,200"
+"Shobhit Institute of Engineering and Technology, Meerut",B.Tech Agriinformatics,"Meerut, Uttar Pradesh",JEE,"Fees:  ₹ 4,10,000"
+"Noorul Islam Centre For Higher Education, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",JEE,"Fees:  ₹ 4,00,000"
+"Avanthi Institute of Engineering and Technology, Visakhapatnam",B.Tech Agricultural Engineering,"Kothapallem, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Sri Jayaram Institute of Engineering and Technology, Thiruvallur",BE Agriculture Engineering,"Gummudipoondi, Tamil Nadu",NA,NA
+"Mohammad Ali Jauhar University, Rampur",B.Tech Aeronautical Engineering,"Rampur, Uttar Pradesh",NA,NA
+"Gojan School of Business and Technology, Chennai",BE Aeronautical Engineering,"Nallur, Tamil Nadu",NA,NA
+"Vision Institute of Technology, Kanpur",B.Tech Agriculture Engineering,"Kanpur, Uttar Pradesh",NA,NA
+"Er Perumal Manimekalai College of Engineering, Hosur",BE Aeronautical Engineering,"Nallaganakothapalli, Tamil Nadu",NA,"Fees:  ₹ 1,60,000"
+"Bansal Institute of Engineering and Technology, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 3,34,400"
+"RKDF University, Bhopal",B.Tech Agricultural Engineering,"Bhopal, Madhya Pradesh",NA,"Fees:  ₹ 2,00,000"
+"MATS School of Engineering and Information Technology, Raipur",B.Tech Aeronautical Engineering,"Arang, Chhattisgarh",NA,Exams:  JEE Main 
+"Manav Rachna International Institute of Research and Studies, Faridabad",B.Tech Aeronautical Engineering,"Faridabad, Haryana",JEE,"Fees:  ₹ 7,26,000"
+"North East Frontier Technical University, West Siang",B.Tech Aeronautical Engineering,"Aalo, Arunachal Pradesh",NA,NA
+"NOVA College of Engineering and Technology, Jangareddygudem",B.Tech Agriculture Engineering,"Vegavaram, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Sri Shanmugha College of Engineering and Technology, Salem",B.Tech Agricultural Engineering,"Tiruchengode, Tamil Nadu",NA,NA
+"Mohamed Sathak AJ College of Engineering, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,NA
+"Centurion University of Technology and Management, Paralakhemundi",B.Tech Agricultural Engineering,"Gajapati, Odisha",CUEE,"Fees:  ₹ 5,00,000"
+"Apollo Engineering College, Chennai",BE Aeronautical Engineering,"Poonamallee, Tamil Nadu",NA,"Fees:  ₹ 2,80,000"
+"Aurora's Scientific and Technological Institute, Ghatkesar",B.Tech Aeronautical Engineering,"Secunderabad, Telangana",TS,"Fees:  ₹ 2,61,100"
+"C Abdul Hakeem College of Engineering and Technology, Melvisharam",BE Aeronautical Engineering,"Melvisharam, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Rajas Engineering College, Vadakkangulam",B.Tech Aeronautical Engineering,"Vadakankulam, Tamil Nadu",NA,NA
+"International School of Technology and Sciences for Women, Rajahmundry",B.Tech Agriculture Engineering,"Rajanagaram, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Chitrakoot",B.Tech Agricultural Engineering,"Satna, Madhya Pradesh",NA,NA
+"Rama University, Kanpur",B.Tech Agricultural Engineering,"Mandhana, Uttar Pradesh",NA,NA
+"Mount Zion College of Engineering, Pathanamthitta",B.Tech Aeronautical Engineering,"Kadammanitta, Kerala",NA,"Fees:  ₹ 140,000"
+"PB College of Engineering, Kancheepuram",BE Aeronautical Engineering,"Kancheepuram, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Infant Jesus College of Engineering, Thoothukudi",BE Aeronautical Engineering,"Thoothukudi, Tamil Nadu",NA,NA
+"Jawaharlal Institute of Technology, Coimbatore",Aeronautical Engineerin,"Thirumalayampalayam, Tamil Nadu",NA,NA
+"SR Institute of Management and Technology, Lucknow",B.Tech Agricultural Engineering,"Lucknow, Uttar Pradesh",NA,"Fees:  ₹ 339,600"
+"Shekhawati Institute of Engineering and Technology, Sikar",B.Tech Agricultural Engineering,"Sikar, Rajasthan",NA,NA
+"Shree Devi Institute of Technology, Mangalore",BE Aeronautical Engineering,"Mangaluru, Karnataka",KCET,"Fees:  ₹ 154,000"
+"Uttar Banga Krishi Viswavidyalaya, Pundibari",B.Tech Agricultural Engineering,"Pundibari, West Bengal",NA,NA
+"Sri Vatsavai Krishnam Raju College of Engineering and Technology, West Godavari",B.Tech Agricultural Engineering,"Kumudavalli, Andhra Pradesh",NA,NA
+"Arasu Engineering College, Kumbakonam",BE Agriculture Engineering,"Kallappuliyur, Tamil Nadu",NA,NA
+"Swami Vivekanand College of Agricultural Engineering and Technology and Research Station, Raipur",B.Tech Agricultural Engineering,"Raipur, Chhattisgarh",NA,NA
+"Surya College of Engineering and Technology, Villupuram",BE Aeronautical Engineering,"Salai, Tamil Nadu",NA,NA
+"Aurora's Research and Technological Institute, Warangal",B.Tech Agricultural Engineering,"Warangal, Telangana",NA,NA
+"Lord Jegannath College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Kanyakumari, Tamil Nadu",NA,"Fees:  ₹ 280,000"
+"RVS School of Engineering and Technology, Dindigul",BE Aeronautical Engineering,"Padiyur, Tamil Nadu",NA,NA
+"Sha-Shib College of Engineering, Chikkaballapur",BE Aeronautical Engineering,"Batthalahalli, Karnataka",NA,NA
+"Aligarh College of Engineering and Technology, Aligarh",B.Tech Agricultural Engineering,"Aligarh, Uttar Pradesh",JEE,"Fees:  ₹ 220,000"
+"Maria College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Attoor, Tamil Nadu",NA,NA
+"The Kavery College of Engineering, Salem",BE Agricultural Engineering,"M.Kalipatti, Tamil Nadu",NA,NA
+"College of Food Science and Technology, Bapatla",B.Tech Food Technology,"Bapatla, Andhra Pradesh",NA,NA
+"Satyam College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Aralvaimozhi, Tamil Nadu",NA,NA
+"JJ College of Engineering and Technology, Tiruchirappalli",BE Aeronautical Engineering,"Poolangulathupatti, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"NIMRA Institute of Science and Technology, Ibrahimpatnam",B.Tech Aeronautical Engineering,"Ibrahimpatnam, Telangana",NA,Exams:  AP EAMCET 
+"Madha Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Shahjehan College of Engineering and Technology, Chevella",B.Tech Aeronautical Engineering,"Chevella, Telangana",NA,Exams:  TS EAMCET 
+"SKP Engineering College, Tiruvannamalai",BE Aeronautical Engineering,"Malappambadi, Tamil Nadu",NA,NA
+"MATS University, Raipur",B.Tech Aeronautical Engineering,"Gullu, Chhattisgarh",NA,NA
+"Dr Panjabrao Deshmukh Krishi Vidyapeeth, Akola",B.Tech Agriculture Engineering,"Akola, Maharashtra",NA,NA
+"Shobhit University, Gangoh",B.Tech Agriculture Informatics,"Mohammadpur Road, Uttar Pradesh",JEE,"Fees:  ₹ 331,100"
+"Junagadh Agricultural University, Junagadh",B.Tech Agriculture Engineering,"Junagadh, Gujarat",NA,NA
+"Bharti College of Agricultural Engineering, Durg",B.Tech Agricultural Engineering,"Durg, Chhattisgarh",NA,NA
+"Institute of Technology and Management, Lucknow",B.Tech Agricultural Engineering,"Navi Kot Nandana, Uttar Pradesh",UPSEE,"Fees:  ₹ 305,000"
+"Achutha Institute of Technology, Chikkaballapur",BE Aeronautical Engineering,"Thangadikunte, Karnataka",KCET,"Fees:  ₹ 132,000"
+"Jayam College of Engineering and Technology, Dharmapuri",BE Aeronautical Engineering,"Dharmapuri, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Jaya Engineering College, Chennai",BE Aeronautical Engineering,"Thirunindravur, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"College of Agricultural Engineering and Post Harvest Technology, Gangtok",B.Tech Agricultural Engineering,"Gangtok, Sikkim",NA,NA
+"Bhawani Sao Ramlal Sao Memorial College of Agricultural Engineering and Technology and Research Station, Mungeli",B.Tech Agricultural Engineering,"Mungeli, Chhattisgarh",NA,NA
+"Lumbini Group of Institutions, Hyderabad",B.Tech Agricultural Engineering,"Bhuvanagiri, Telangana",NA,NA
+"Suresh Gyan Vihar University, Jaipur",B.Tech Agricultural Engineering,"Jaipur, Rajasthan",NA,"Fees:  ₹ 480,000"
+"Maharana Pratap University of Agriculture and Technology, Udaipur",B.Tech Agricultural Engineering,"Udaipur, Rajasthan",NA,Exams:  JEE Main 
+"Kaushik College of Engineering, Visakhapatnam",B.Tech Aeronautical Engineering,"Tallavalasa, Andhra Pradesh",NA,"Fees:  ₹ 140,000"
+"Thiruvalluvar College of Engineering and Technology, Vandavasi",B.Tech Aeronautical Engineering,"Ponnur Malai, Tamil Nadu",NA,NA
+"Sri Ramakrishna College of Engineering, Perambalur",BE Agricultural Engineering,"Siruvachur, Tamil Nadu",NA,NA
+"Mahendra Institute of Engineering and Technology, Tiruchengode",BE Aeronautical Engineering,"Tiruchengode, Tamil Nadu",NA,NA
+"Park College of Technology, Karumathampatti",BE Aeronautical Engineering,"Karumathampatti, Tamil Nadu",NA,NA
+"Arunai College of Engineering, Tiruvannamalai",BE Agriculture Engineering,"Thenmathur, Tamil Nadu",NA,NA
+"Babu Sunder Singh Institute of Technology and Management, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,NA
+"RK University, Rajkot",B.Tech Agricultural Engineering,"Rajkot, Gujarat",NA,"Fees:  ₹ 260,000"
+"PMR Engineering College, Chennai",BE Aeronautical Engineering,"Chennai, Tamil Nadu",NA,NA
+"MAM School of Engineering, Siruganur",BE Aeronautical Engineering,"Siruganur, Tamil Nadu",NA,NA
+"Tudi Ram Reddy Institute of Technology and Science, Hyderabad",B.Tech Agriculture Engineering,"Gudur, Telangana",NA,NA
+"Maheshwara Institute of Technology, Patancheru",B. Tech Aeronautical Engineering,"Hyderabad, Telangana",NA,NA
+"Tagore Engineering College, Chennai",BE Aeronautical Engineering,"Rathinamangalam, Tamil Nadu",JEE,"Fees:  ₹ 200,000"
+"Kakinada Institute of Technological Sciences, Ramachandrapuram",B.Tech Agricultural Engineering,"Ambikapalli Agrahaaram, Andhra Pradesh",AP,"Fees:  ₹ 140,000"
+"Doon College of Engineering and Technology, Saharanpur",B.Tech Agricultural Engineering,"Saharanpur, Uttar Pradesh",NA,NA
+"Adusumilli Vijaya Institute of Technology and Research Centre, Nalgonda",B.Tech Agricultural Engineering,"Nalgonda, Telangana",NA,Exams:  TS EAMCET 
+"Punjab State Aeronautical Engineering College, Patiala",B.Tech Aeronautical Engineering,"Patiala, Punjab",NA,NA
+"Raffles University, Neemrana",B.Tech Agricultural Engineering,"Neemrana, Rajasthan",NA,"Fees:  ₹ 398,000"
+"Vijaya Engineering College, Khammam",B.Tech Agriculture Engineering,"Khammam, Telangana",NA,NA
+"Muthayammal College of Engineering, Namakkal",BE Agriculture Engineering,"Rasipuram, Tamil Nadu",NA,NA
+"Surendra Group of Institutions, Sri Ganganagar",B.Tech Agricultural Engineering,"Sri Ganganagar, Rajasthan",JEE,"Fees:  ₹ 318,500"
+"Himalayan Institute of Technology and Management, Lucknow",B.Tech Agriculture Engineering,"Lucknow, Uttar Pradesh",NA,NA
+"Gopal Ramalingam Memorial Engineering College, Chennai",BE Aeronautical Engineering,"Vattampakkam, Tamil Nadu",NA,NA
+"ACN College of Engineering and Management Studies, Aligarh",B.Tech Agricultural Engineering,"Chherat, Uttar Pradesh",NA,Exams:  UPSEE 
+"Tudi Ram Reddy Institute of Technology and Science, Bibinagar",B.Tech Agricultural Engineering,"Gudur, Telangana",NA,Exams:  TS EAMCET 
+"Rajaas Engineering College, Tirunelveli",BE Aeronautical Engineering,"Adangarkulam, Tamil Nadu",NA,NA
+"Adusumalli Vijaya College of Engineering and Research Centre, Nalgonda",B.Tech Agricultural Engineering,"Bommalramaram, Telangana",NA,NA
+"Immanuel Araser JJ college of Engineering, Kanyakumari",BE Aeronautical Engineering,"Marthandam, Tamil Nadu",NA,NA
+"Vikas Group of Institutions, Vijayawada",B.Tech Agricultural Engineering,"Vijayawada, Andhra Pradesh",NA,Exams:  AP EAMCET 
+"Bikaner Technical University, Bikaner",B.Tech Aeronautical Engineering,"Bikaner, Rajasthan",NA,NA
+"Rai Technology University, Bangalore",B.Tech Agriculture,"Doddabelavangala, Karnataka",NA,NA
+"Narendra Deva University of Agriculture and Technology, Faizabad",B.Tech Agricultural Engineering,"Kumarganj, Uttar Pradesh",NA,NA
+"Sanskriti Institute of Management and Technology, Mathura",B.Tech Agriculture Engineering,"Chhata, Uttar Pradesh",NA,NA
+"Vision Institute of Technology, Aligarh",B.Tech Agriculture Engineering,"Bilgram, Uttar Pradesh",UPSEE,"Fees:  ₹ 293,000"
+"Marathwada Institute of Technology, Bulandshahr",B.Tech Agricultural Engineering,"Bulandshahr, Uttar Pradesh",UPSEE,"Fees:  ₹ 232,000"
+"Nigama Engineering College, Karim Nagar",B.Tech Agriculture Engineering,"Thaher Kondapur, Telangana",NA,NA
+"Dr ZH Institute of Technology and Management, Firozabad",B.Tech Agricultural Engineering,"Satauli, Uttar Pradesh",NA,NA
+"Maharaja Ranjit Singh Punjab Technical University, Bathinda",B.Tech Aeronautical Engineering,"Bathinda, Punjab",NA,NA
+"SKP Institute of Technology, Tiruvannamalai",BE Aeronautical Engineering,"Tiruvannamalai, Tamil Nadu",NA,NA
+"MJRP College of Engineering and Technology, Jaipur",B. Tech Agriculture Engineering,"Jaipur, Rajasthan",NA,NA
+"Parisutham Institute of Technology and Science, Thanjavur",BE Aeronautical Engineering,"Inathukanpatti, Tamil Nadu",NA,"Fees:  ₹ 395,600"
+"Paavaai Group of Institutions- School of Engineering, Pachal",B. Tech Aeronautical Engineering,"Pachal, Tamil Nadu",NA,NA
+"Infant Jesus College of Engineering and Technology, Thoothukudi",BE Aeronautical Engineering,"Vallanadu, Tamil Nadu",NA,NA
+"Central Agricultural University, Imphal",B.Tech Agriculture Engineering,"Imphal, Manipur",NA,NA
+"Tamizhan College of Engineering and Technology, Kanyakumari",BE Aeronautical Engineering,"Chenbagaramanputhoor, Tamil Nadu",NA,NA
+"Surya School of Engineering and Technology, Villupuram",BE Aeronautical Engineering,"Villupuram, Tamil Nadu",NA,NA
+"Srinivasan Engineering College, Perambalur",BE Aeronautical Engineering,"Perambalur, Tamil Nadu",NA,"Fees:  ₹ 160,000"
+"Bandari Srinivas College of Engineering and Technology, Ranga Reddy",Aeronautical Engineering,"Dharmasagar, Telangana",NA,NA

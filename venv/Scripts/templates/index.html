@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+    <meta name="generator" content="Jekyll v3.8.5" />
+    <title>Careers</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+    <style>
+        .navbar {
+            background: #1c203d;
+            color: #ffc40a !important;
+        }
+
+        .navbar-brand {
+            color: #ffc40a !important;
+            font-weight: bolder;
+        }
+
+        .nav-link {
+            color: #ffc40a !important;
+        }
+
+        .navbar-toggler {
+            color: #ffc40a !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signup-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .login-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signuptoday-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .carousel-item {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/LPU.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .ci-2 {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/iit.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .ci-3 {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/iim.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .carousel-caption>* {
+            color: #ffc40a !important;
+            opacity: 1 !important;
+        }
+
+        .featurette p {
+            color: #1c203d !important;
+            font-size: 1.5em;
+        }
+
+        .featurette-heading {
+            color: #ffc40a !important;
+            font-size: 2em;
+        }
+
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        .main-box {
+            background: #17192b;
+            color: #ffc40a;
+            padding: 5%;
+            /* margin-left: 6%; */
+            border-right: 1px solid #ffc40a;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .modalDialog {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: #fff;
+            color: #1c203d;
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+
+        .modalDialog1 {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog1:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog1>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            color: #1c203d;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: rgb(236, 230, 230);
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="./css/carousel.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md fixed-top">
+            <a class="navbar-brand lead" href="#">C<small>ollege</small>S<small>earch</small></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">--</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ url_for('college') }}">Colleges<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('college') }}">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#test">Exams</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2  mr-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="res" />
+                    <button class="btn submit-btn my-2 my-sm-0" type="submit"><a href="{{ url_for('search_result') }}">
+                        Search college
+                    </button>
+                </form>
+                <button class="btn signup-btn mr-2"><a href="{{ url_for('signup') }}">sign up</a></button>
+                <button class="btn login-btn mr-2"><a href="{{ url_for('login') }}">Login</a></button>
+               
+        </nav>
+    </header>
+{% block header %}
+<link href="./css/carousel.css" rel="stylesheet" />
+<header>
+    <main role="main">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="static/img/LPU.jpg" alt="" width="100%" height="100%">
+                    <div class="container">
+                        <div class="carousel-caption text-left">
+                            <h1>Lovely Professional University</h1>
+                            <p>
+                                LPU's infrastructure is one of the biggest & best in the
+                                World. To be a premier academic institution, recognized
+                                internationally for its contribution to industry and society
+                                through excellence in teaching, learning, research,
+                                internationalization, entrepreneurship and leadership.
+                            </p>
+                            <p>
+                                <a class="btn btn-lg btn-primary" href="https://www.lpu.in/" role="button"
+                                    target="_blank">Visit Website</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item ci-2">
+				<img src="static/img/delhi.jpg" alt="" width="100%" height="100%">
+                    <div class="container">
+                        <div class="carousel-caption text-left">
+                            <h1>IIT Delhi</h1>
+                            <p>
+                                To generate new knowledge by engaging in cutting-edge research and to promote academic
+                                growth by offering state-of-the-art undergraduate, postgraduate and doctoral programmes.
+
+                                To identify, based on an informed perception of Indian, regional and global needs, areas
+                                of specialization upon which the institute can concentrate.
+
+                                To undertake collaborative projects which offer opportunities for long-term interaction
+                                with academia and industry.
+
+                                To develop human potential to its fullest extent so that intellectually capable and
+                                imaginatively gifted leaders can emerge in a range of professions.
+                            </p>
+                            <p>
+                                <a class="btn btn-lg signuptoday-btn" target="_blank" href="http://www.iitd.ac.in/"
+                                    role="button">visit</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item ci-3">
+				<img src="static/img/indore.jpg" alt="" width="100%" height="100%">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>IIM Indore</h1>
+                            <p>
+                                IIM Indore seeks to be a contextually-relevant business school with world-class academic
+                                standards that develops socially-conscious managers, leaders and entrepreneurs. IIM
+                                Indore is committed to: Excellence in management education, research, and training, Use
+                                of contemporary participant-centric pedagogies and teaching methods, A presence in
+                                emerging segments of management education.
+                            </p>
+                            <p>
+                                <a class="btn btn-lg btn-primary" target="_blank" href="https://www.iimidr.ac.in/"
+                                    role="button">visit
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+		</header>
+		<script src="js/bootstrap.min.js"></script>
+{% endblock %}
+        <!-- Marketing messaging and featurettes
+  ================================================== -->
+        <!-- Wrap the rest of the page in another container to center all the content. -->
+
+        <div class="container marketing">
+            <!-- Three columns of text below the carousel -->
+            <div class="row">
+                <div class="col-lg-4 main-box">
+                    <h2>Carrer and Major</h2>
+                    <!-- <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
+                        xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false"
+                        role="img" aria-label="Placeholder: 140x140">
+                        <title>Placeholder</title>
+                        <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
+                            dy=".3em">140x140</text>
+                    </svg> -->
+                    <img src="/static/img/career.png"  width="200px" alt=""/>
+                    <p class="lead">
+                        Careers that match your personality and majors to get you there.
+                    </p>
+                    <p>
+                        <a class="btn submit-btn" href="{{ url_for('quiz') }}" role="button">Take quiz&raquo;</a>
+                    </p>
+                </div>
+                <!-- /.col-lg-4 -->
+                <div class="col-lg-4 main-box">
+                    <h2>Fit Score</h2>
+                    <img src="static/img/score.png" width="200px" alt="" />
+
+                    <p class="lead">Find colleges that match what YOU want</p>
+                    <p>
+                        <a class="btn submit-btn" href="./quiz.html" role="button">Take quiz &raquo;</a>
+                    </p>
+                </div>
+                <!-- /.col-lg-4 -->
+                <div class="col-lg-4 main-box" style="border: none;">
+                    <h2>What are my Chances ?</h2>
+
+                    <img src="static/img/degree.png" width="200px" alt="" />
+                    <p class="lead">
+                        Calculate your chances of getting into any college
+                    </p>
+                    <p>
+                        <a class="btn submit-btn" href="#" role="button">View details &raquo;</a>
+                    </p>
+                </div>
+                <!-- /.col-lg-4 -->
+            </div>
+            <!-- /.row -->
+
+            <!-- START THE FEATURETTES -->
+
+            <hr class="featurette-divider" />
+
+            <div class="row featurette">
+                <div class="col-md-7">
+                    <h2 class="featurette-heading">Who We Are ?</h2>
+                    <p class="lead">
+                        Our mission is to move every student closer to day one at the
+                        college that’s right for them. With the most current and complete
+                        profiles of every college in the United States, a multi-billion
+                        dollar scholarship database, advanced matching algorithms, and
+                        direct connections with colleges, we get students from wherever
+                        they are now to their first day on campus.
+                    </p>
+                </div>
+                <div class="col-md-5">
+
+                    <img src="static/img/graduation.png" alt="" width="100%" height="100%" />
+                </div>
+            </div>
+
+            <a name="test"></a>
+            <div class="row featurette">
+                <div class="col-md-12 order-md-2">
+                    <h2 class="featurette-heading">
+                        Engineering Entrance Exam
+
+                    </h2>
+                    <p class="lead">
+                        <ul>
+                            <li><b>JEE Mains </b>
+                                This is one of the most popular engineering entrance exam in India. From 2020, the exam
+                                is
+                                getting held twice a year â in January and in April by NTA (National Testing Agency).
+                                Till
+                                2018, JEE Main exam was being conducted by CBSE. JEE Main 2020 is scheduled to be
+                                conducted
+                                on January 6-11 and on April 3-9, 2020.</li>
+                            <li><b>JEE Advanced</b> second stage of the JEE system, JEE Advanced is conducted once a
+                                year
+                                by
+                                the seven zonal IITs with guidance from the Joint Admission Board (JAB). The exam scores
+                                are used for admissions to BTech programmes offered by 24 IITs in India. Remember, only
+                                the top 2.4 lakh rank holders ofÂ JEE MainÂ will be eligible to appear for JEE Advanced
+                                2020 which is scheduled to be held May 19, 2020.</li>
+                            <li><b>BITSAT:</b> Conducted by Birla Institute of Technology and Science (BITS) Pilani,
+                                BITSAT is
+                                a computer based test (CBT) conducted annually for admission to Integrated First degree
+                                programmes like BE, Pharma and MSc programmes offered by BITS campuses located at
+                                Pilani, Goa and Hyderabad. BITSAT 2020 will tentatively be held in the third/fourth week
+                                of May, 2020.</li>
+                            <li><b>VITEEE:</b> One of the most popular institute level BTech exam, VITEEE is conducted
+                                by the
+                                Vellore Institute of Technology (VIT) for admissions to its BTech programmes. VITEEE
+                                2020 will be held online.</li>
+                            <li><b>SRMJEEE: SRM Institute of Science & Technology conductsÂ SRMJEEE</b> for admissions
+                                to BTech
+                                programmesÂ offered by its campuses in Kattankulathur, Ramapuram, Vadapalani and
+                                Delhi-NCR.Â SRMJEEE 2020 will be held online across 125 test centres in India and few
+                                centres in Middle-east.</li>
+                            <li><b>MHTCET: Maharashtra Common Entrance Test (MHT CET)</b> is conducted by the DTE
+                                (Directorate
+                                of Technical Education), Maharashtra for admissions to first year Engineering and
+                                Technology programmes (BE/BTech) and Pharmacy programmes (BPharma/PharmaD) in the state.
+                            </li>
+                        </ul>
+                    </p>
+                </div>
+
+            </div>
+
+
+
+            <div class="row featurette">
+                <div class="col-md-12">
+                    <h2 class="featurette-heading">
+                        Government Exams after Graduation
+                    </h2>
+                    <p class="lead">
+                        <ul>
+                            <li>
+                                <b>Indian Economic Service Examination (IES):</b> A nationwide competitive examination
+                                CSE is conducted
+                                for graduates by the Union Public Service Commission (UPSC) for recruitment to Civil
+                                Services in Government of India including Indian Administrative Service (IAS), Indian
+                                Foreign Service (IFS), Indian Police Service (IPS) and Indian Revenue Service (IRS).
+                            </li>
+                            <li>
+                                <b>Indian Economic Service Examination (IES):</b> IES is an administrative civil service
+                                examination for graduates with Economics/Statistics that includes Grade A of the Central
+                                Civil Services of the executive branch of the Government of India.
+                            </li>
+                            <li>
+                                <b>Indian Statistical Service Examination (ISS):</b> ISS is another examination for
+                                Statistics/Mathematics/Economics graduates to get recruited as Grade IV officers of the
+                                services of Indian Statistic.
+                            </li>
+                            <li><b>Combined Engineering Services Examination (CES)</b> is conducted by the Union Public
+                                Service
+                                Commission ( UPSC ) of India. The UPSC conducts the Combined Engineering Services
+                                Examination for recruitment of engineers to the four categories of Engineering Services
+                                : Civil Engineering, Mechanical Engineering, Electrical Engineering and Electronics &
+                                Telecommunication Engineering. Engineers selected through the Combined Engineering
+                                Services Examination are appointed to various posts in governmental organizations like
+                                the Indian Railways, Central Engineering Service, Survey of India, Indian Ordnance
+                                Factories Service ( Engineering Branch ), Military Engineer Services, Indian
+                                Telecommunication Service, Central Power Engineering Service, Central Water Engineering
+                                Service etc.</li>
+                            <li><b>Air
+                                    Force Common Admission Test (AFCAT) </b> This is an All India level defence
+                                recruitment exam to select candidates for Air force.
+                                AFCAT is held twice a year, for grant of Short Service Commission in Flying Branch and
+                                Permanent/ Short Service Commission in Technical and Ground Duty Branches through Air
+                                Force Common Admission Test (AFCAT) </li>
+                            <li> <b>Graduate Aptitude Test in Engineering (GATE):</b> GATE is jointly conducted by the
+                                Indian
+                                Institute of Science and seven Indian Institutes of Technology for admission to PG in
+                                Engineering.GATE Scores are also used by PSUs for conducting recruitment.</li>
+                            <li>
+                                <b> Railway jobs test:</b> This an exam conducted by Indian Railways for graduates
+                                seeking jobs
+                                of ticket examiner, clerk, non-technical posts, Group C and Group D departments etc.
+                                This is going to be a huge list if we include each and every entrance exam for admission
+                                to post graduate courses in India.
+                            </li>
+                        </ul>
+                    </p>
+                </div>
+
+            </div>
+
+            <hr class="featurette-divider" />
+
+            <!-- /END THE FEATURETTES -->
+        </div>
+        <!-- /.container -->
+
+        <!-- FOOTER -->
+        <footer class="container">
+            <p class="float-right"><a href="#">Back to top</a></p>
+        </footer>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

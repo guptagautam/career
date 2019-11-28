@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>{{ author }}'s app</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+    <meta name="generator" content="Jekyll v3.8.5" />
+    <title>Careers</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+<!--<style>
+ <body {background-color: #e8f139;}--
+</style>-->
+<style>
+        .navbar {
+            background: #1c203d;
+            color: #ffc40a !important;
+        }
+
+        .navbar-brand {
+            color: #ffc40a !important;
+            font-weight: bolder;
+        }
+
+        .nav-link {
+            color: #ffc40a !important;
+        }
+
+        .navbar-toggler {
+            color: #ffc40a !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signup-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .login-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signuptoday-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .carousel-item {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/LPU.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .ci-2 {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/iit.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .ci-3 {
+            background-image: linear-gradient(rgb(28, 32, 61, 0.7),
+                    rgb(28, 32, 61, 0.7)),
+                url(img/iim.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .carousel-caption>* {
+            color: #ffc40a !important;
+            opacity: 1 !important;
+        }
+
+        .featurette p {
+            color: #1c203d !important;
+            font-size: 1.5em;
+        }
+
+        .featurette-heading {
+            color: #ffc40a !important;
+            font-size: 2em;
+        }
+
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        .main-box {
+            background: #17192b;
+            color: #ffc40a;
+            padding: 5%;
+            /* margin-left: 6%; */
+            border-right: 1px solid #ffc40a;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .modalDialog {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: #fff;
+            color: #1c203d;
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+
+        .modalDialog1 {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog1:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog1>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            color: #1c203d;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: rgb(236, 230, 230);
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+		.div:row {
+			height: 100xp;
+			width: 200xp
+		}
+		body {background-color: #ffc40a;}
+		
+    </style>
+	<link href="./css/carousel.css" rel="stylesheet" />
+	</head>
+	<body>
+	<header>
+        <nav class="navbar navbar-expand-md fixed-top">
+            <a class="navbar-brand lead" href="{{ url_for('home') }}">C<small>ollege</small>S<small>earch</small></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">--</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ url_for('college') }}">Colleges<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('college') }}">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#test">Exams</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2  mr-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
+                    <button class="btn submit-btn my-2 my-sm-0" type="submit">
+                        Search college
+                    </button>
+                </form>
+                <button class="btn signup-btn mr-2"><a href="{{ url_for('signup') }}">sign up</a></button>
+                <button class="btn login-btn mr-2"><a href="{{ url_for('login') }}">Login</a></button>
+               
+        </nav>
+    </header>
+<div class="question-head">
+            <h1 class="text-center heading">Questionaire</h1>
+            <h3 class="lead text-center">Sign up for all the latest updates !!!</h3>
+        </div>
+<div class="container">
+  <h2>Evaluation Results</h2>
+  <h2>The most suitable branch according to your preferences are :-</h2><br><br>
+  {% for item in tables %}
+  <div class="col-md-4">
+      <div class="thumbnail">
+          <div class="caption">
+            <h6>{{item[0]}}</h6>
+          </div>
+        </a>
+      </div>
+    </div>
+{% endfor %}
+	
+  
+</div>
+
+
+
+
+    </div>
+    <!-- /.container -->
+
+    <!-- FOOTER -->
+    <footer class="container pt-5">
+        <p class="float-right"><a href="#">Back to top</a></p>
+    </footer>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

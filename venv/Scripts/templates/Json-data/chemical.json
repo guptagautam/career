@@ -1,0 +1,2214 @@
+[
+  {
+    "Name": "Indian Institute of Technology Bombay",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Mumbai, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 845,600"
+  },
+  {
+    "Name": "Dayananda Sagar College of Engineering, Bangalore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 198,000"
+  },
+  {
+    "Name": "Lovely Professional University, Phagwara",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Phagwara, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 740,000"
+  },
+  {
+    "Name": "RV College of Engineering, Bangalore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 222,000"
+  },
+  {
+    "Name": "Manipal Institute of Technology, Manipal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Manipal, Karnataka",
+    "Exams Accepted": "MET",
+    "Fees": "Fees:  ₹ 1,540,000"
+  },
+  {
+    "Name": "Maharaja Sayajirao University of Baroda, Vadodara",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Vadodara, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 35,500"
+  },
+  {
+    "Name": "SRM Institute of Science and Technology, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kattankulathur, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,000,000"
+  },
+  {
+    "Name": "Vellore Institute of Technology, Vellore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Vellore, Tamil Nadu",
+    "Exams Accepted": "VITEEE",
+    "Fees": "Fees:  ₹ 692,000"
+  },
+  {
+    "Name": "BMS College of Engineering, Bangalore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 1,400,000"
+  },
+  {
+    "Name": "Ramaiah Institute of Technology, Bangalore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 313,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Madras",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 813,550"
+  },
+  {
+    "Name": "Institute of Chemical Technology, Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mumbai, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 335,400"
+  },
+  {
+    "Name": "Jadavpur University, Kolkata",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "WBJEE",
+    "Fees": "Fees:  ₹ 9,600"
+  },
+  {
+    "Name": "Indian Institute of Technology Delhi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "New Delhi, Delhi",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 839,800"
+  },
+  {
+    "Name": "Amrita School of Engineering, Coimbatore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,040,000"
+  },
+  {
+    "Name": "LD College of Engineering, Ahmedabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 10,100"
+  },
+  {
+    "Name": "School of Engineering, University of Petroleum and Energy Studies, Dehradun",
+    "Branch": "B.Tech Chemical Engineering with Specialization in Refining and Petrochemicals",
+    "Place": "Dehradun, Uttarakhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,528,000"
+  },
+  {
+    "Name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 480,000"
+  },
+  {
+    "Name": "Heritage Institute of Technology, Kolkata",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 393,400"
+  },
+  {
+    "Name": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Surat, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 531,500"
+  },
+  {
+    "Name": "Vishwakarma Institute of Technology, Pune",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 717,516"
+  },
+  {
+    "Name": "Birla Institute of Technology, Mesra",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ranchi, Jharkhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 954,000"
+  },
+  {
+    "Name": "Manipal University, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,145,000"
+  },
+  {
+    "Name": "BITS Pilani- Hyderabad Campus, Hyderabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "National Institute of Technology Tiruchirappalli",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Tiruchirappalli, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 534,800"
+  },
+  {
+    "Name": "Andhra University College of Engineering, Visakhapatnam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Visakhapatnam, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "Nirma University, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 761,200"
+  },
+  {
+    "Name": "Motilal Nehru National Institute of Technology Allahabad Prayagraj",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Allahabad, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 544,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Kharagpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kharagpur, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 847,500"
+  },
+  {
+    "Name": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jalandhar, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 565,600"
+  },
+  {
+    "Name": "MIT College of Engineering, Pune",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,180,000"
+  },
+  {
+    "Name": "Pandit Deendayal Petroleum University, Gandhinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gandhinagar, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 921,000"
+  },
+  {
+    "Name": "Chandigarh University, Chandigarh",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chandigarh, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 654,000"
+  },
+  {
+    "Name": "AISSMS College of Engineering, Pune",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 441,404"
+  },
+  {
+    "Name": "National Institute of Technology Karnataka Surathkal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Mangaluru, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 534,479"
+  },
+  {
+    "Name": "Indian Institute of Technology Roorkee",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Roorkee, Uttarakhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 855,000"
+  },
+  {
+    "Name": "Visvesvaraya National Institute of Technology Nagpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 540,300"
+  },
+  {
+    "Name": "BITS Pilani, Goa Campus",
+    "Branch": "BE Chemical Engineering Hons",
+    "Place": "Chicalim, Goa",
+    "Exams Accepted": "BITSAT",
+    "Fees": "Fees:  ₹ 1,624,800"
+  },
+  {
+    "Name": "MBM Engineering College, Jodhpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jodhpur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 120,000"
+  },
+  {
+    "Name": "Gayatri Vidya Parishad College of Engineering, Visakhapatnam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Visakhapatnam, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 434,200"
+  },
+  {
+    "Name": "Harcourt Butler Technical University, Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 294,560"
+  },
+  {
+    "Name": "National Institute of Technology Warangal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Warangal, Telangana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "St Joseph's College of Engineering, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Chaitanya Bharathi Institute of Technology, Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 800,000"
+  },
+  {
+    "Name": "Sinhgad College of Engineering, Pune",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,608"
+  },
+  {
+    "Name": "Sathyabama Institute of Science and Technology, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "SAEEE",
+    "Fees": "Fees:  ₹ 685,000"
+  },
+  {
+    "Name": "Birla Institute of Technology and Science, Pilani",
+    "Branch": "BE Chemical Engineering Hons",
+    "Place": "Pilani, Rajasthan",
+    "Exams Accepted": "BITSAT",
+    "Fees": "Fees:  ₹ 1,632,500"
+  },
+  {
+    "Name": "JNTUH College of Engineering, Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Banaras Hindu University Varanasi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Varanasi, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 828,010"
+  },
+  {
+    "Name": "Hindustan Institute of Technology and Science, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "HITSEEE",
+    "Fees": "Fees:  ₹ 832,500"
+  },
+  {
+    "Name": "Sant Longowal Institute of Engineering and Technology, Longowal",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Longowal, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 271,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 830,850"
+  },
+  {
+    "Name": "Haldia Institute of Technology, Haldia",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Haldia, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 360,700"
+  },
+  {
+    "Name": "Indian Institute of Technology Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 887,780"
+  },
+  {
+    "Name": "Kalinga Institute of Industrial Technology, Bhubaneswar",
+    "Branch": "B.Tech Chemical Technology",
+    "Place": "Bhubaneshwar, Odisha",
+    "Exams Accepted": "KIITEE",
+    "Fees": "Fees:  ₹ 1,400,000"
+  },
+  {
+    "Name": "Malaviya National Institute of Technology Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 411,472"
+  },
+  {
+    "Name": "Institute of Engineering and Technology, Lucknow",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 339,100"
+  },
+  {
+    "Name": "National Institute of Technology Rourkela",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Rourkela, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 599,500"
+  },
+  {
+    "Name": "GIET University, Gunupur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gunupur, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 456,000"
+  },
+  {
+    "Name": "Shiv Nadar University, Greater Noida",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Greater Noida, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 940,000"
+  },
+  {
+    "Name": "Siddaganga Institute of Technology, Tumkur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Tumakuru, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 331,470"
+  },
+  {
+    "Name": "National Institute of Technology Calicut",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kattangal, Kerala",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 541,320"
+  },
+  {
+    "Name": "Coimbatore Institute of Technology, Coimbatore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 238,480"
+  },
+  {
+    "Name": "Indian Institute of Technology Gandhinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gandhinagar, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 986,500"
+  },
+  {
+    "Name": "Sri Sivasubramaniya Nadar College of Engineering, Kalavakkam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kelambakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "TKM College of Engineering, Kollam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kollam, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 45,025"
+  },
+  {
+    "Name": "National Institute of Technology Raipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Raipur, Chhattisgarh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 540,000"
+  },
+  {
+    "Name": "GMR Institute of Technology, Rajam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Srikakulam, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 440,800"
+  },
+  {
+    "Name": "Banasthali Vidyapith, Banasthali",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "Banasthali",
+    "Fees": "Fees:  ₹ 444,500"
+  },
+  {
+    "Name": "Sri Venkateswara University College of Engineering, Tirupati",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Tirupati, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 42,000"
+  },
+  {
+    "Name": "Government Engineering College, Thrissur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Thrissur, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 20,685"
+  },
+  {
+    "Name": "Anurag Group of Institutions, Ghatkesar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Shanmugha Arts Science Technology Research and Academy, Thanjavur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Thanjavur, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 537,000"
+  },
+  {
+    "Name": "Guru Ghasidas Vishwavidyalaya, Bilaspur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bilaspur, Chhattisgarh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 110,000"
+  },
+  {
+    "Name": "Thapar Institute of Engineering and Technology, Patiala",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Patiala, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 611,900"
+  },
+  {
+    "Name": "Lakshmi Narain College of Technology, Bhopal",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bhopal, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,022,000"
+  },
+  {
+    "Name": "RVR and JC College of Engineering, Guntur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 451,000"
+  },
+  {
+    "Name": "Rajalakshmi Engineering College, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 180,000"
+  },
+  {
+    "Name": "MVJ College of Engineering, Bangalore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 683,000"
+  },
+  {
+    "Name": "CV Raman College of Engineering, Bhubaneswar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bhubaneswar, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 356,000"
+  },
+  {
+    "Name": "Vishwakarma Government Engineering College, Ahmedabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 11,200"
+  },
+  {
+    "Name": "Jawaharlal Nehru Technological University College of Engineering, Kakinada",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kakinada, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "BV Raju Institute of Technology, Narsapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Narsapur, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 402,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Patna",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Patna, Bihar",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 845,390"
+  },
+  {
+    "Name": "Maulana Azad National Institute of Technology Bhopal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bhopal, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 558,911"
+  },
+  {
+    "Name": "BIT Sindri, Dhanbad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Dhanbad, Jharkhand",
+    "Exams Accepted": "JEECE",
+    "Fees": "Fees:  ₹ 147,223"
+  },
+  {
+    "Name": "Madhav Institute of Technology and Science, Gwalior",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Gwalior, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 328,000"
+  },
+  {
+    "Name": "Pondicherry Engineering College, Puducherry",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Pillaichavady, Puducherry",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 106,000"
+  },
+  {
+    "Name": "National Institute of Technology Andhra Pradesh",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Tadepalligudem, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 562,300"
+  },
+  {
+    "Name": "LJ Institute of Engineering and Technology, Ahmedabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 292,000"
+  },
+  {
+    "Name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Vishnupuri",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Vishnupuri, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 301,004"
+  },
+  {
+    "Name": "SDM College of Engineering and Technology, Dharwad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Dharwad, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 512,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Ropar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Rupnagar, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 858,200"
+  },
+  {
+    "Name": "Kongu Engineering College, Erode",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Perundurai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 372,000"
+  },
+  {
+    "Name": "JNTUA College of Engineering, Anantapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Anantapur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "KK Wagh Institute of Engineering Education and Research, Nashik",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Nashik, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 328,000"
+  },
+  {
+    "Name": "Alagappa College of Technology, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Indian Institute of Technology Guwahati",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Guwahati, Assam",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 861,150"
+  },
+  {
+    "Name": "Indian Institute of Technology Indian School of Mines Dhanbad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Dhanbad, Jharkhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 904,100"
+  },
+  {
+    "Name": "Sethu Institute of Technology, Kariapatti",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "S.Kallupatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 180,000"
+  },
+  {
+    "Name": "Madan Mohan Malaviya University of Technology, Gorakhpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gorakhpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 657,600"
+  },
+  {
+    "Name": "National Institute of Technology Durgapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Durgapur, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 550,900"
+  },
+  {
+    "Name": "MIT Academy of Engineering, Pune",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Pune, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 622,948"
+  },
+  {
+    "Name": "National Institute of Technology Hamirpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hamirpur, Himachal Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 568,050"
+  },
+  {
+    "Name": "Dr MGR Educational and Research Institute, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 360,000"
+  },
+  {
+    "Name": "Vignan's Foundation for Science Technology and Research, Guntur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 260,000"
+  },
+  {
+    "Name": "Saveetha Engineering College, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "The Institutions of Engineers India, Kolkata",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Laxminarayan Institute of Technology, Nagpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 113,216"
+  },
+  {
+    "Name": "Bipin Tripathi Kumaon Institute of Technology, Dwarahat",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hulank Talli Mirai, Uttarakhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 276,000"
+  },
+  {
+    "Name": "Dharmsinh Desai University, Nadiad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nadiad, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 608,000"
+  },
+  {
+    "Name": "Amal Jyothi College of Engineering, Kottayam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Koovappally, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 370,100"
+  },
+  {
+    "Name": "Dwarkadas J Sanghvi College of Engineering, Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mumbai, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 634,824"
+  },
+  {
+    "Name": "Zakir Husain College of Engineering and Technology, Aligarh Muslim University, Aligarh",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AMU Entrance Test"
+  },
+  {
+    "Name": "Indira Gandhi Institute of Technology, Sarang",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Khalapal, Odisha",
+    "Exams Accepted": "OJEE",
+    "Fees": "Fees:  ₹ 128,804"
+  },
+  {
+    "Name": "Annamalai University, Annamalai Nagar",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chidambaram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 214,600"
+  },
+  {
+    "Name": "Sri Venkateswara College of Engineering, Sriperumbudur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanchipuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 980,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Tirupati",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Tirupati, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 880,650"
+  },
+  {
+    "Name": "Thadomal Shahani Engineering College, Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mumbai, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 586,628"
+  },
+  {
+    "Name": "University Institute of Engineering and Technology CSJMU, Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 332,800"
+  },
+  {
+    "Name": "NIMS University, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,20,000"
+  },
+  {
+    "Name": "Veer Surendra Sai University of Technology, Sambalpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Burla, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,73,030"
+  },
+  {
+    "Name": "Ujjain Engineering College, Ujjain",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ujjain, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 98,714"
+  },
+  {
+    "Name": "Bapuji Institute of Engineering and Technology, Davangere",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Davanagere, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 3,40,000"
+  },
+  {
+    "Name": "Saintgits College of Engineering, Kottayam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Pathamuttam, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Jaipur National University, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bundelkhand Institute of Engineering and Technology, Jhansi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jhansi, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 1,99,200"
+  },
+  {
+    "Name": "Bapatla Engineering College, Bapatla",
+    "Branch": "B.Tech Chemical Engineering Lateral Entry",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP ECET"
+  },
+  {
+    "Name": "Adhiyamaan College of Engineering, Hosur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Krishnagiri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,80,000"
+  },
+  {
+    "Name": "Deen Bandhu Chhotu Ram University of Science and Technology, Murthal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Sonepat, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,87,000"
+  },
+  {
+    "Name": "Galgotias University, Greater Noida",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Greater Noida, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 6,69,600"
+  },
+  {
+    "Name": "Dr Ambedkar Institute of Technology for Handicapped, Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 2,75,300"
+  },
+  {
+    "Name": "Institute of Engineering and Science, IPS Academy, Indore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Indore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,20,000"
+  },
+  {
+    "Name": "Assam Engineering College, Guwahati",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Guwahati, Assam",
+    "Exams Accepted": "Assam",
+    "Fees": "Fees:  ₹ 44,000"
+  },
+  {
+    "Name": "Parala Maharaja Engineering College, Berhampur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Berhampur, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,21,600"
+  },
+  {
+    "Name": "Dr Babasaheb Ambedkar Technological University, Lonere",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Lonere, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 2,91,015"
+  },
+  {
+    "Name": "Government Engineering College, Kozhikode",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kozhikode, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 52,840"
+  },
+  {
+    "Name": "Datta Meghe College of Engineering, Navi Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,70,148"
+  },
+  {
+    "Name": "National Institute of Technology Srinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Srinagar, Jammu and Kashmir",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 5,52,900"
+  },
+  {
+    "Name": "GH Patel College of Engineering and Technology, Anand",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Anand, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 4,76,000"
+  },
+  {
+    "Name": "Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Visakhapatnam, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 3,49,000"
+  },
+  {
+    "Name": "Shaheed Bhagat Singh State Technical Campus, Ferozepur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Firozpur, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 4,05,758"
+  },
+  {
+    "Name": "Osmania University, Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "National Institute of Technology Agartala",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Agartala, Tripura",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 5,50,750"
+  },
+  {
+    "Name": "Government College of Engineering, Kannur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kannur, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 24,000"
+  },
+  {
+    "Name": "Sarvajanik College of Engineering and Technology, Surat",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Surat, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 4,72,000"
+  },
+  {
+    "Name": "Sir Padampat Singhania University, Udaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 6,80,000"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Bhubaneswar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Khurda, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 5,00,000"
+  },
+  {
+    "Name": "Karpagam Academy of Higher Education, Coimbatore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,90,500"
+  },
+  {
+    "Name": "Maharaj Vijayaram Gajapathi Raj College of Engineering, Vizianagaram",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Vizianagaram, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,61,400"
+  },
+  {
+    "Name": "Kalasalingam Academy of Research and Education, Virudhunagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Krishnan Kovil, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 420,600"
+  },
+  {
+    "Name": "Ahmedabad University, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 692,000"
+  },
+  {
+    "Name": "Agni College of Technology, Thalambur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Mambakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Sri Satya Sai University of Technology and Medical Sciences, Sehore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "University College of Technology, Osmania University, Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "Meerut Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Rampur Pawti, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 451,052"
+  },
+  {
+    "Name": "KPR Institute of Engineering and Technology, Coimbatore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "GD Goenka School of Engineering, Gurgaon",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Sohna, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "KLE Dr MS Sheshgiri College of Engineering and Technology, Belgaum",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Belagavi, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 358,660"
+  },
+  {
+    "Name": "University College of Science, Technology and Agriculture, Kolkata",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  WBJEE"
+  },
+  {
+    "Name": "Bharati Vidyapeeth College of Engineering, Navi Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 365,904"
+  },
+  {
+    "Name": "VVP Engineering College, Rajkot",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Vajdi, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 372,000"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan College of Engineering, Perambalur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Beant College of Engineering and Technology, Gurdaspur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gurdaspur, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 223,160"
+  },
+  {
+    "Name": "Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "University Institute of Chemical Technology, Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bambhori Pr. Chandsar, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 100,400"
+  },
+  {
+    "Name": "Tatyasaheb Kore Institute of Engineering and Technology, Kolhapur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kolhapur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 353,760"
+  },
+  {
+    "Name": "Institute of Engineering and Technology, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Lukhdhirji Engineering College, Morbi",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Morbi, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 6,000"
+  },
+  {
+    "Name": "Institute of Advanced Research, Gandhinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Koba, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "CSIR-Central ElectroChemical Research Institute, Karaikudi",
+    "Branch": "B.Tech Chemical and Electrochemical Engineering",
+    "Place": "Karaikudi, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 423,600"
+  },
+  {
+    "Name": "Amity University, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "Amity",
+    "Fees": "Fees:  ₹ 720,000"
+  },
+  {
+    "Name": "Mahatma Gandhi Mission's College of Engineering and Technology, Navi Mumbai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 274,452"
+  },
+  {
+    "Name": "Mohamed Sathak Engineering College, Kilakarai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kilakarai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Mewar University, Chittorgarh",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chittorgarh, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 492,000"
+  },
+  {
+    "Name": "Shivaji University, Kolhapur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kolhapur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  MAHA CET"
+  },
+  {
+    "Name": "Chhatrapati Shahu Ji Maharaj University, Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Aditya Silver Oak Institute of Technology, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 224,000"
+  },
+  {
+    "Name": "Andhra University, Visakhapatnam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Visakhapatnam, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "Aadishwar College of Technology, Gandhinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Indore Institute of Science and Technology, Indore",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Indore, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 240,000"
+  },
+  {
+    "Name": "Chhotubhai Gopalbhai Patel Institute of Technology, Bardoli",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bardoli, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 348,150"
+  },
+  {
+    "Name": "Shivajirao S Jondhale College of Engineering, Thane",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Dombivli, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 344,400"
+  },
+  {
+    "Name": "Quantum School of Technology, Roorkee",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Roorkee, Uttarakhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 440,000"
+  },
+  {
+    "Name": "Himalayan University, Itanagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhagwan Arihant Institute of Technology, Surat",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Surat, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Noida Institute of Engineering and Technology, Greater Noida",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Greater Noida, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 469,700"
+  },
+  {
+    "Name": "Sir Chhotu Ram Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 325,000"
+  },
+  {
+    "Name": "Dr SS Bhatnagar University Institute of Chemical Engineering and Technology, Chandigarh",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chandigarh, Chandigarh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 70,000"
+  },
+  {
+    "Name": "National Institute of Technology Arunachal Pradesh",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Papum Pare, Arunachal Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 557,600"
+  },
+  {
+    "Name": "Centurion Institute of Technology, Bhubaneswar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Khurdha, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Pravara Rural Engineering College, Loni",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chandrapur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 387,050"
+  },
+  {
+    "Name": "Government Engineering College, Bharuch",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bharuch, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 6,000"
+  },
+  {
+    "Name": "Mahatma Gandhi Mission's Jawaharlal Nehru Engineering College, Aurangabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Aurangabad, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 344,000"
+  },
+  {
+    "Name": "Raja Balwant Singh Engineering Technical Campus, Bichpuri",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bichpuri, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 316,500"
+  },
+  {
+    "Name": "Institute of Engineering & Technology, Lucknow",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Padmabhooshan Vasantraodada Patil Institute of Technology, Sangli",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Sangli, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 342,876"
+  },
+  {
+    "Name": "Rajiv Gandhi Institute of Petroleum Technology Amethi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Amethi, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 1,040,000"
+  },
+  {
+    "Name": "Indian Institute of Petroleum and Energy Visakhapatnam",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Visakhapatnam, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Advanced"
+  },
+  {
+    "Name": "Finolex Academy of Management and Technology, Ratnagiri",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ratnagiri, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 302,760"
+  },
+  {
+    "Name": "Anand Engineering College, Agra",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Runkata, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 403,500"
+  },
+  {
+    "Name": "Jaypee University of Engineering and Technology, Guna",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chetabarri, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 740,000"
+  },
+  {
+    "Name": "Cochin College of Engineering and Technology, Malappuram",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kattipparuthi, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Dr DY Patil Institute of Engineering Management and Research, Pune",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Pimpri-Chinchwad, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 307,148"
+  },
+  {
+    "Name": "DY Patil College of Engineering and Technology, Kolhapur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kolhapur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 366,400"
+  },
+  {
+    "Name": "Government Engineering College, Valsad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Valsad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 6,000"
+  },
+  {
+    "Name": "Guru Kashi University, Talwandi Sabo",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Talwandi Sabo, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Visvesvaraya Technological University, Belagavi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Belgaum, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 61,840"
+  },
+  {
+    "Name": "Parul Institute of Technology, Vadodara",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Limda, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 339,000"
+  },
+  {
+    "Name": "Marwadi University, Rajkot",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Yavatmal, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 247,865"
+  },
+  {
+    "Name": "DAV University, Jalandhar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Sarmastpur, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 514,000"
+  },
+  {
+    "Name": "Shram Sadhana Bombay Trust's College of Engineering and Technology, Jalgaon",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Jalgaon, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 277,530"
+  },
+  {
+    "Name": "CMJ University, Shillong",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Shillong, Meghalaya",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "VSB Engineering College, Karur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nedungur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Paavai Engineering College, Pachal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Puduchatram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Nandha Engineering College, Erode",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Erode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jagannath Institute for Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Uppalada, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 421,000"
+  },
+  {
+    "Name": "Arunai Engineering College, Tiruvannamalai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Tiruvannamalai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 180,000"
+  },
+  {
+    "Name": "Mahatma Jyotiba Phule Rohilkhand University, Bareilly",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bareilly, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  UPSEE"
+  },
+  {
+    "Name": "College of Engineering and Technology, Akola",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Babhulgaon, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  MAHA CET"
+  },
+  {
+    "Name": "Parul University, Vadodara",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Waghodia, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahendra Engineering College, Namakkal",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mallasamudram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Department of Chemical Engineering, Punjab University, Chandigarh",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chandigarh, Chandigarh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 58,000"
+  },
+  {
+    "Name": "SS College of Engineering, Udaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Umra, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Anuradha Engineering College, Buldana",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chikhli, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 270,040"
+  },
+  {
+    "Name": "Muthayammal Engineering College, Namakkal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kakkaveri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Erode Sengunthar Engineering College, Thudupathi",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Thudupathi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 200,000"
+  },
+  {
+    "Name": "Sant Gadge Baba Amravati University, Amravati",
+    "Branch": "B.Tech Chemical Technology",
+    "Place": "Amravati, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  MAHA CET"
+  },
+  {
+    "Name": "St Peter's College of Engineering and Technology, Chennai",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Avadi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jawaharlal Nehru Technological University, Hyderabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 40,000"
+  },
+  {
+    "Name": "Babu Banarasi Das National Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 453,212"
+  },
+  {
+    "Name": "Calcutta Institute of Technology, Howrah",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Howrah, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Anjalai Ammal Mahalingam Engineering College, Tiruvarur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kovilvenni, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 206,000"
+  },
+  {
+    "Name": "Rajiv Gandhi University of Knowledge Technologies, Hyderabad",
+    "Branch": "B.Tech. Chemical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 72,000"
+  },
+  {
+    "Name": "GSFC University, Vadodara",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Vadodara, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Swarrnim Startup and Innovation University, Gandhinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vel Tech High Tech Dr Rangarajan Dr Sakunthala Engineering College, Chennai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 240,000"
+  },
+  {
+    "Name": "Hindustan College of Science and Technology, Mathura",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jamaalpur, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 403,200"
+  },
+  {
+    "Name": "Gnanamani College of Engineering, Namakkal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kadanthapatty, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SAL College of Engineering, Ahmedabad",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 256,000"
+  },
+  {
+    "Name": "Rajasthan Technical University, Kota",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kota, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 315,500"
+  },
+  {
+    "Name": "Jawaharlal Nehru Technological University, Kakinada",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kakinada, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 120,000"
+  },
+  {
+    "Name": "Mahatma Jyoti Rao Phoole University, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kalwad Kalan and Khurd, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Seth Jai Parkash Mukand Lal Institute of Engineering and Technology, Yamunanagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Yamuna Nagar, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 348,000"
+  },
+  {
+    "Name": "PK University, Shivpuri",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Karera, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Raipur Institute of Technology, Raipur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Naya Raipur, Chhattisgarh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 272,800"
+  },
+  {
+    "Name": "Sri Satya Sai Institute of Science and Technology, Sehore",
+    "Branch": "B. Tech Chemical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Marwadi Education Foundation Group of Institutions, Rajkot",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  GUJCET"
+  },
+  {
+    "Name": "PP Savani University, Surat",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kosamba, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Allahabad State University, Allahabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Allahabad, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sir Visvesvaraya Institute of Technology, Nashik",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Chincholi, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Dr KN Modi Institute of Engineering and Technology, Modinagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Modinagar, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 407,040"
+  },
+  {
+    "Name": "Pacific School of Engineering, Surat",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Timbarava, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  GUJCET"
+  },
+  {
+    "Name": "St Michael College of Engineering and Technology, Kalayarkoil",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kalayarkoil, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sriram Engineering College, Thiruvallur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Perumalpattu, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 225,000"
+  },
+  {
+    "Name": "Government Engineering College, Bhuj",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bhuj, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 6,000"
+  },
+  {
+    "Name": "Aditya College of Engineering and Advanced Studies, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shroff SR Rotary Institute of Chemical Technology, Bharuch",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Vataria, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 396,000"
+  },
+  {
+    "Name": "Adhiparasakthi Engineering College, Kancheepuram",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kancheepuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 180,000"
+  },
+  {
+    "Name": "Priyadarshini Institute of Engineering and Technology, Nagpur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ekatmata Nagar Gramin, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 370,440"
+  },
+  {
+    "Name": "Bineswar Brahma Engineering College, Kokrajhar",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kokrajhar, Assam",
+    "Exams Accepted": "Assam",
+    "Fees": "Fees:  ₹ 36,000"
+  },
+  {
+    "Name": "Durgapur Institute of Advanced Technology and Management, Durgapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Durgapur, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 369,600"
+  },
+  {
+    "Name": "Institute of Engineering and Technology, Sitapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Sitapur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  UPSEE"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Chemical Engineering and Petrochemical Engineering",
+    "Place": "Gajapati, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 400,000"
+  },
+  {
+    "Name": "Manipal Academy of Higher Education, Dubai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Private",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Doon College of Engineering and Technology, Dehradun",
+    "Branch": "B. Tech Chemical Engineering",
+    "Place": "Dehradun, Uttarakhand",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Indian Institute of Technology Jammu",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Jammu, Jammu and Kashmir",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 852,800"
+  },
+  {
+    "Name": "Arunodaya University, Itanagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shri S'ad Vidya Mandal Institute of Technology, Bharuch",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bharuch, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 224,000"
+  },
+  {
+    "Name": "Smt Maherbanu College of Science and Commerce, Akola",
+    "Branch": "B.Tech Cosmetics Technology",
+    "Place": "Akola, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 36,000"
+  },
+  {
+    "Name": "Om Engineering College, Junagadh",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kathrota, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 268,000"
+  },
+  {
+    "Name": "Gharda Institute of Technology, Ratnagiri",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Ratnagiri, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  MAHA CET"
+  },
+  {
+    "Name": "ITM Institute of Technology and Management, Gwalior",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gwalior, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 288,000"
+  },
+  {
+    "Name": "Bharat Institute of Technology, Meerut",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 400,000"
+  },
+  {
+    "Name": "Rajiv Gandhi University of Knowledge Technologies, RK Valley Campus, Kadapa",
+    "Branch": "B.Tech Chemical Engineering Integrated",
+    "Place": "Idupulapaya, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SS Agrawal Colleges, Navsari",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Navsari, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jai Narain Vyas University, Jodhpur",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Jodhpur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Plastindia International University, Vapi",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Vapi, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bheemanna Khandre Institute of Technology, Bhalki",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bhalki, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 324,000"
+  },
+  {
+    "Name": "The Kavery College of Engineering, Salem",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "M.Kalipatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jiwaji University, Gwalior",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Gwalior, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 134,240"
+  },
+  {
+    "Name": "SAL Institute of Engineering, Ahmedabad",
+    "Branch": "B. Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SD College of Engineering and Technology, Muzaffarnagar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Muzaffarnagar, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "S S Agrawal Institute of Engineering and Technology, Navsari",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Navsari, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Uttarakhand Technical University, Dehradun",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Dehradun, Uttarakhand",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "IITT College of Engineering, Pojewal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Nawan Gran, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SRET College of Engineering and Technology, Hamirpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Phahal, Himachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Arulmigu Meenakshi Amman College of Engineering, Tiruvannamalai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Namandi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "SAL Engineering and Technical Institute, Ahmedabad",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 224,000"
+  },
+  {
+    "Name": "Aarya-Veer College of Engineering and Technology, Rajkot",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kuvadva, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Chhatrapati Shivaji Maharaj University, Navi Mumbai",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sree Ernakulathappan College of Engineering and Management, Thrissur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Injakundu, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Naraina College of Engineering and Technology, Kanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 304,000"
+  },
+  {
+    "Name": "Sunrise Group of Institutions, Udaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shri Shivaji Education Society's College of Engineering and Technology, Yavatmal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Amravati, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  MAHA CET"
+  },
+  {
+    "Name": "Sitarambhai Naranji Patel Institute of Technology and Research Centre, Surat",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Bardoli, Gujarat",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 260,000"
+  },
+  {
+    "Name": "Dr VR Godhania College of Engineering and Technology, Porbandar",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Porbandar, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Indrashil University, Kadi",
+    "Branch": "B.Tech Chemical and Biochemical Engineering",
+    "Place": "Kadi, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Bikaner Technical University, Bikaner",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Bikaner, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Buddha College of Engineering and Technology, Udaipur",
+    "Branch": "B. Tech Chemical Engineering",
+    "Place": "Sethji Ki Kundal, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RN College of Engineering and Technology, Panipat",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Panipat, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 240,000"
+  },
+  {
+    "Name": "TOMS College of Engineering for Startups, Mattakara",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Mattakkara, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 200,000"
+  },
+  {
+    "Name": "MG Institute of Engineering and Technology, Mandi",
+    "Branch": "Chemical Engineering",
+    "Place": "Badhoo, Himachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SVPES Faculty of Engineering, Technology and Research, Bardoli",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Isroli, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 256,000"
+  },
+  {
+    "Name": "Biyani International Institute of Engineering and Technology for Girls, Jaipur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Kanwar Ka Bas, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Pinnacle School of Engineering and Technology, Anchal",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Mathra, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Vidyabharti Trust Institute of Technology and Research Centre, Surat",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mota, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Veerayatn Group of Institutions- Faculty of Engineering and Management, Kutch",
+    "Branch": "B. Tech Chemical Engineering",
+    "Place": "Talwana, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Stallion College For Engineering and Technology, Saharanpur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Chhutmalpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Veerayatan Institute of Engineering, Haripar",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Kutch, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Prime Institute of Engineering and Technology, Navsari",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Mangrol, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  MAHA CET"
+  },
+  {
+    "Name": "Shree Kankeshwari Deviji Institute of Technology, Jamnagar",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Naranpura, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Indore Institute of Science and Technology-II, Indore",
+    "Branch": "BE Chemical Engineering",
+    "Place": "Indore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Institute of Engineering and Rural Technology, Sitapur",
+    "Branch": "B.Tech Chemical Engineering",
+    "Place": "Sitapur, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Manipal International University, Malaysia",
+    "Branch": "Bachelor of Chemical Engineering",
+    "Place": "Private",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  }
+]

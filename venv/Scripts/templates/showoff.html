@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ author }}'s app</title>
+  </head>
+
+  <body>
+    <h2>Hello Guys! Here are some college suggestions for your selected profession</h2>
+  </body>
+ {% for item in tables %}
+	<h3>The name is :</h3>
+    <p> {{ titles[loop.index] }} </p>
+	<p> {{item|safe}}
+{% endfor %}
+    </body>
+</html>

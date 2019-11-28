@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+    <meta name="generator" content="Jekyll v3.8.5" />
+    <title>Carousel Template · Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+    <style>
+        .navbar {
+            background: #1c203d;
+            color: #ffc40a !important;
+        }
+
+        .navbar-brand {
+            color: #ffc40a !important;
+            font-weight: bolder;
+        }
+
+        .nav-link {
+            color: #ffc40a !important;
+        }
+
+        .navbar-toggler {
+            color: #ffc40a !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signup-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .login-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signuptoday-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .marketing {
+            padding-top: 5%;
+        }
+
+        .featurette p {
+            color: #1c203d !important;
+            font-size: 1.5em;
+        }
+
+        .featurette-heading {
+            color: #ffc40a !important;
+            font-size: 2em;
+        }
+
+        .bd-placeholder-img {
+            font-size: 1.5rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        .main-box {
+            background: #17192b;
+            color: #ffc40a;
+            padding: 5%;
+            /* margin-left: 6%; */
+            border-right: 1px solid #ffc40a;
+        }
+
+        .college-topic {
+            color: #1c203d;
+        }
+
+        .college-name {
+            color: #1c203d;
+        }
+
+        .branches .col-sm {
+            border: 1px solid #1c203d;
+            padding: 5px;
+            margin: 2px;
+            background: #ffc40a;
+            color: #1c203d;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .modalDialog {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: #fff;
+            color: #1c203d;
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+
+        .modalDialog1 {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog1:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog1>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            color: #1c203d;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: rgb(236, 230, 230);
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="./css/carousel.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md fixed-top">
+            <a class="navbar-brand lead" href="{{ url_for('home') }}">C<small>ollege</small>S<small>earch</small></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">--</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ url_for('college') }}">Colleges<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('courses') }}">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Exams</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2 mt-md-0 mr-2">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
+                    <button class="btn submit-btn my-2 my-sm-0" type="submit">
+                        Search college
+                    </button>
+                </form>
+               <button class="btn signup-btn mr-2"><a href="{{ url_for('signup') }}">sign up</a></button>
+                <button class="btn login-btn mr-2"><a href="{{ url_for('login') }}">Login</a></button>
+
+
+            </div>
+        </nav>
+    </header>
+
+    <main role="main">
+        <div class="album  bg-light">
+            <div class="jumbotron">
+                <div class=" px-0">
+                    <h1 class="display-4 font-italic college-topic">Engineering</h1>
+                    <p class="lead">Engineering is a broad discipine which involves the application of mathematics,
+                        empirical
+                        evidence
+                        and
+                        scientific,
+                        It envelopes a wide range of sub-disciplines, each with a more specific emphasis on particular
+                        areas
+                        of
+                        applied science, technology and types of application.</p>
+
+                </div>
+            </div>
+            <div class="container">
+                <h4 class="college-topic">Branches in Engineering</h4>
+                <div class="container">
+                    <div class="row branches" id="branches">
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_computer_science') }}">Computer
+                                Science Engineering</a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_electronics_and_communication') }}">Electronics and Communication Engineering</a>
+
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_electrical_and_electronics') }}"> Electrical engineering.</a>
+                        </div>
+                    </div>
+                    <div class="row branches">
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_mechanical') }}"> Mechanical Engineering</a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_information') }}"> Information Technology Engineering</a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_civil') }}"> Civil Engineering</a>
+                        </div>
+                    </div>
+                    <div class="row branches">
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_chemical') }}"> Chemical Engineering.</a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_aero') }}"> Aeronautical Engineering</a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="{{ url_for('search_agri') }}"> Agricultural engineering</a>
+                        </div>
+                    </div>
+
+
+                </div>
+                <br>
+                <h4 class="college-topic">Eligibility or Minimum Requirements</h4>
+                <ul class="list-group">
+                    <li class="list-group-item">10 + 2 Above 60 % Marks</li>
+                    <li class="list-group-item">Science Stream in 10 + 2</li>
+                    <li class="list-group-item">Duration: 4 years</li>
+                    <li class="list-group-item">Based on JEE Main score</li>
+                    <li class="list-group-item">Based on JEE Advance score</li>
+                </ul>
+                <br>
+                <h4 class="college-topic">Average Annual fee(In Lacs ): Rs 280,694
+                </h4>
+
+            </div>
+        </div>
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="container">
+            <p class="float-right"><a href="#">Back to top</a></p>
+
+        </footer>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <script>
+        function fun1(data) {
+
+            sessionStorage["data"] = data;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+    <meta name="generator" content="Jekyll v3.8.5" />
+    <title>Carousel Template · Bootstrap</title>
+    <script src="https://kit.fontawesome.com/b07d3b1ff4.js" crossorigin="anonymous"></script>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+    <style>
+        .navbar {
+            background: #1c203d;
+            color: #ffc40a !important;
+        }
+
+        .navbar-brand {
+            color: #ffc40a !important;
+            font-weight: bolder;
+        }
+
+        .nav-link {
+            color: #ffc40a !important;
+        }
+
+        .navbar-toggler {
+            color: #ffc40a !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signup-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .login-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .submit-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+        .signuptoday-btn {
+            background: #ffc40a;
+            color: #1c203d !important;
+        }
+
+
+
+        .main-box {
+            background: #17192b;
+            color: #ffc40a;
+            padding: 5%;
+            /* margin-left: 6%; */
+            border-right: 1px solid #ffc40a;
+        }
+
+        .college-topic {
+            color: #1c203d;
+        }
+
+        .college-name {
+            color: #1c203d;
+        }
+
+        .branches .col-sm {
+            border: 1px solid #1c203d;
+            padding: 5px;
+            margin: 2px;
+            background: #ffc40a;
+            color: #1c203d;
+        }
+
+        .list-clg {
+            /* padding: 10px; */
+            margin-top: 5px;
+            margin-left: 10px;
+
+            box-shadow: 1px 4px 10px -3px #1c203d;
+            background: white;
+            list-style: none;
+
+            color: #1c203d;
+            background: #ffc40a;
+            box-sizing: content-box;
+            max-width: 270px;
+        }
+
+        .name {
+            background: #1c203d;
+            color: #ffc40a;
+            margin-left: -15px;
+            margin-right: -15px;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        .modalDialog {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: #fff;
+            color: #1c203d;
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+
+        .modalDialog1 {
+            position: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+        }
+
+        .modalDialog1:target {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modalDialog1>div {
+            width: 400px;
+            position: relative;
+            margin: 10% auto;
+            color: #1c203d;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: rgb(236, 230, 230);
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+        }
+
+        .close {
+            background: #606061;
+            color: #FFFFFF;
+            line-height: 25px;
+            position: absolute;
+            right: -12px;
+            text-align: center;
+            top: -10px;
+            width: 24px;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-border-radius: 12px;
+            -moz-border-radius: 12px;
+            border-radius: 12px;
+            -moz-box-shadow: 1px 1px 3px #000;
+            -webkit-box-shadow: 1px 1px 3px #000;
+            box-shadow: 1px 1px 3px #000;
+        }
+
+        .close:hover {
+            background: #00d9ff;
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="./css/carousel.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md fixed-top">
+            <a class="navbar-brand lead" href="{{ url_for('home') }}">C<small>ollege</small>S<small>earch</small></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">--</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./college.html">Colleges<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./college.html">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Exams</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2  mr-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
+                    <button class="btn submit-btn my-2 my-sm-0" type="submit">
+                        Search college
+                    </button>
+                </form>
+                 <button class="btn signup-btn mr-2"><a href="{{ url_for('signup') }}">sign up</a></button>
+                <button class="btn login-btn mr-2"><a href="{{ url_for('login') }}">Login</a></button>
+
+
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container-fluid">
+            <ul class="row pt-5" id="data-list">
+
+            </ul>
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="container">
+            <p class="float-right"><a href="#">Back to top</a></p>
+            <p>
+                &copy; 2017-2019 Company, Inc. &middot;
+                <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
+            </p>
+        </footer>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+
+    <script>
+        function create_clg(data) {
+            //console.log(data.length);
+            var ul = document.getElementById('data-list');
+            //top 100 element
+            data.length = 100;
+            data.forEach(data => {
+
+                var li = document.createElement('li');
+                li.classList.add('list-clg', 'col-md-3');
+                li.innerHTML = `
+                    <div class="p-1 name">
+                        <p><i class="fas fa-university pr-1"></i><b>${data.Name}</b></p>
+                    </div>
+                    <div class="pr-1"><i class="fas fa-code-branch pr-1"></i>${data.Branch}</div>
+                    <div class="pr-1"><i class="fas fa-code-branch pr-1"></i>${data['Exams Accepted']}</div>
+                    <div class="pr-1"><i class="fas fa-map-marker pr-1"></i>${data.Place}</div>
+                    <div class="pr-1"><i class="fas fa-rupee-sign pr-1"></i>${data.Fees}
+                `;
+                ul.appendChild(li);
+
+            });
+
+
+        }
+        var branch_c = sessionStorage["data"];
+        if (branch_c == 'cse') {
+            console.log("yes");
+            fetch("Json-data/computer.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'ece') {
+            console.log("yes");
+            fetch("Json-data/Electrical_and_electronics.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'aero') {
+            console.log("yes");
+            fetch("Json-data/aeronaitical.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'agri') {
+            console.log("yes");
+            fetch("Json-data/Agriculture.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'che') {
+            console.log("yes");
+            fetch("Json-data/chemical.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'civil') {
+            console.log("yes");
+            fetch("Json-data/civil.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'cece') {
+            console.log("yes");
+            fetch("Json-data/core electrical.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'eee') {
+            console.log("yes");
+            fetch("Json-data/Electrical.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+        if (branch_c == 'mech') {
+            console.log("yes");
+            fetch("Json-data/Mechanical.json")
+                .then(res => res.json())
+                .then(function (data) {
+                        console.log(data)
+                        create_clg(data)
+
+                    }
+
+                )
+        }
+    </script>
+	
+	
+	<img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+	
+	
+	
+	
+	
+	
+</body>
+
+</html>

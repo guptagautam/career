@@ -1,0 +1,4041 @@
+[
+  {
+    "Name": "University of Petroleum and Energy Studies, Dehradun",
+    "Branch": "B.Sc-Food, Nutrition and Dietetics",
+    "Place": "Dehradun, Uttarakhand",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 344,000"
+  },
+  {
+    "Name": "Dayananda Sagar College of Engineering, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 198,000"
+  },
+  {
+    "Name": "Manipal Institute of Technology, Manipal",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Manipal, Karnataka",
+    "Exams Accepted": "MET",
+    "Fees": "Fees:  ₹ 1,540,000"
+  },
+  {
+    "Name": "Maharaja Sayajirao University of Baroda, Vadodara",
+    "Branch": "BE Civil Irrigation and Water Engineering",
+    "Place": "Vadodara, Gujarat",
+    "Exams Accepted": "GUJCET",
+    "Fees": "Fees:  ₹ 35,500"
+  },
+  {
+    "Name": "Indian Institute of Space Science and Technology, Thiruvananthapuram",
+    "Branch": "B.Tech Avionics",
+    "Place": "Thiruvananthapuram, Kerala",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 272,000"
+  },
+  {
+    "Name": "Integral University, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 320,000"
+  },
+  {
+    "Name": "Kumaraguru College of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Indian Institute of Technology Kharagpur",
+    "Branch": "B.Tech Agricultural and Food Engineering",
+    "Place": "Kharagpur, West Bengal",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 847,500"
+  },
+  {
+    "Name": "College of Engineering, Guindy",
+    "Branch": "BE Agricultural and Irrigation",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 129,560"
+  },
+  {
+    "Name": "Bannari Amman Institute of Technology, Erode",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Erode, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 200,000"
+  },
+  {
+    "Name": "Acharya Institute of Technology, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 188,000"
+  },
+  {
+    "Name": "Sathyabama Institute of Science and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "SAEEE",
+    "Fees": "Fees:  ₹ 70,000"
+  },
+  {
+    "Name": "School of Engineering and Technology, Jain University, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  Uni-Gauge-E ,  JET"
+  },
+  {
+    "Name": "Madras Institute of Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Nitte Meenakshi Institute of Technology, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 243,000"
+  },
+  {
+    "Name": "Aditya Engineering College, Surampalem",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Surampalem, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 227,000"
+  },
+  {
+    "Name": "Hindustan Institute of Technology and Science, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "HITSEEE",
+    "Fees": "Fees:  ₹ 1,062,500"
+  },
+  {
+    "Name": "KLS Gogte Institute of Technology, Belagavi",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Belgaum, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 213,840"
+  },
+  {
+    "Name": "Karunya Institute of Technology and Sciences, Coimbatore",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 724,000"
+  },
+  {
+    "Name": "GIET University, Gunupur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gunupur, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 456,000"
+  },
+  {
+    "Name": "BS Abdur Rahman Institute of Science and Technology, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 630,000"
+  },
+  {
+    "Name": "Sharda University, Greater Noida",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Greater Noida, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 656,000"
+  },
+  {
+    "Name": "Malla Reddy College of Engineering and Technology, Hyderabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "College of Technology, GB Pant University of Agriculture and Technology, Pantnagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Pantnagar, Uttarakhand",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 222,356"
+  },
+  {
+    "Name": "Institute of Aeronautical Engineering, Dundigal",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Domara Pocham Pally, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 268,000"
+  },
+  {
+    "Name": "Rajalakshmi Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 180,000"
+  },
+  {
+    "Name": "MVJ College of Engineering, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 923,000"
+  },
+  {
+    "Name": "Sri Ramakrishna Engineering College, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "MLR Institute of Technology, Dundigal",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Hindusthan College of Engineering and Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Sandip University, Nashik",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Nashik, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sethu Institute of Technology, Kariapatti",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "S.Kallupatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Srinivas Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Arkula, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 316,000"
+  },
+  {
+    "Name": "SNS College of Technology, Coimbatore",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Kurumbapalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "ACS College of Engineering, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  COMEDK UGET ,  KCET"
+  },
+  {
+    "Name": "Dr MGR Educational and Research Institute, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 640,000"
+  },
+  {
+    "Name": "Vignan's Foundation for Science Technology and Research, Guntur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Saveetha Engineering College, Chennai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "The Institutions of Engineers India, Kolkata",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "OPJS University, Rajgarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Churu, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Priyadarshini College of Engineering, Nagpur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 416,000"
+  },
+  {
+    "Name": "Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "VTUEEE",
+    "Fees": "Fees:  ₹ 1,060,000"
+  },
+  {
+    "Name": "Silver Oak College of Engineering and Technology, Ahmedabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Sai Nath University, Ranchi",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ranchi, Jharkhand",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Digras, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "NIMS University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 320,000"
+  },
+  {
+    "Name": "Annasaheb Dange College of Engineering and Technology, Sangli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Ashta, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 316,000"
+  },
+  {
+    "Name": "Bharath Institute of Higher Education and Research, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "BEEE",
+    "Fees": "Fees:  ₹ 600,000"
+  },
+  {
+    "Name": "Amity University, Noida",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Noida, Uttar Pradesh",
+    "Exams Accepted": "Amity",
+    "Fees": "Fees:  ₹ 1,244,000"
+  },
+  {
+    "Name": "ITM University, Gwalior",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gwalior, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 580,000"
+  },
+  {
+    "Name": "Adhiyamaan College of Engineering, Hosur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Krishnagiri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "SJC Institute of Technology, Chickballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chikkaballapura, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Swami Vivekanand University, Sagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Sironja, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Siddhartha Institute of Engineering and Technology, Puttur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Puttur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 290,000"
+  },
+  {
+    "Name": "KCG College of Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Mangalore Institute of Technology and Engineering, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurda, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 191,290"
+  },
+  {
+    "Name": "Excel Engineering College, Namakkal",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Pallakapalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Kalasalingam Academy of Research and Education, Virudhunagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Krishnan Kovil, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 530,000"
+  },
+  {
+    "Name": "Desh Bhagat University, Mandi Gobindgarh",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Mandi Gobindgarh, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Nehru Institute of Engineering and Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thirumalayampalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,80,000"
+  },
+  {
+    "Name": "Chaudhary Charan Singh Haryana Agricultural University, Hisar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Hisar, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Punjab Agricultural University, Ludhiana",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ludhiana, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,22,790"
+  },
+  {
+    "Name": "Sri Satya Sai University of Technology and Medical Sciences, Sehore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Poornima College of Engineering, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Feroze Gandhi Institute of Engineering and Technology, Raebareli",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Raebareli, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 3,39,818"
+  },
+  {
+    "Name": "Park College of Engineering and Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "International Institute for Aerospace Engineering and Management, Jain University, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "GD Goenka School of Engineering, Gurgaon",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Sohna, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Acharya NG Ranga Agricultural University, Guntur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 97,200"
+  },
+  {
+    "Name": "Sardar Vallabhbhai Patel Institute of Technology, Anand",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vasad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,01,400"
+  },
+  {
+    "Name": "Vaugh Institute of Agricultural Engineering and Technology, Allahabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Allahabad, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan College of Engineering, Perambalur",
+    "Branch": "B.Tech Food Technology",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Jeppiaar Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Rungta College of Engineering and Technology, Bhilai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Bhilai, Chhattisgarh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 2,94,920"
+  },
+  {
+    "Name": "Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Shakthi Institute of Engineering and Technology, Coimbatore",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore",
+    "Branch": "B.Tech Avionics",
+    "Place": "Indore, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,07,000"
+  },
+  {
+    "Name": "North Eastern Regional Institute of Science and Technology, Nirjuli",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 42,720"
+  },
+  {
+    "Name": "Hindusthan Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Malumichampatty, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Mohamed Sathak Engineering College, Kilakarai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kilakarai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Bhagwant University, Ajmer",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ajmer, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Aditya Silver Oak Institute of Technology, Ahmedabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,24,000"
+  },
+  {
+    "Name": "Kalaignar Karunanidhi Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aadishwar College of Technology, Gandhinagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Bapatla",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 97,200"
+  },
+  {
+    "Name": "School of Aeronautics, Neemrana",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Neemrana, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 7,37,000"
+  },
+  {
+    "Name": "Sardar Patel University, Balaghat",
+    "Branch": "B.Tech Agricultural Science",
+    "Place": "Balaghat, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bidhan Chandra Krishi Vishwavidyalaya, Nadia",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Manpur, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Karavali Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangaluru, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,00,000"
+  },
+  {
+    "Name": "GKM College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Kelappaji College of Agricultural Engineering and Technology, Tavanur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Tavanur, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Shyam University, Dausa",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Dausa, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Himalayan University, Itanagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhagwan Arihant Institute of Technology, Surat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Surat, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sir Chhotu Ram Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 325,000"
+  },
+  {
+    "Name": "Aditya College of Technology and Science, Satna",
+    "Branch": "BE Agricultural Technology",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Centurion Institute of Technology, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurdha, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Parul Institute of Engineering and Technology, Vadodara",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Vadodara, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 339,000"
+  },
+  {
+    "Name": "Saveetha School of Engineering, Chennai",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Kuthambakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 535,000"
+  },
+  {
+    "Name": "College of Agriculture, Bangalore",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "St Peter's University, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Dr Annasaheb Shinde College of Agricultural Engineering, Ahmednagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ahmednagar, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan Institute of Research and Technology, Perambalur",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Manav Institute of Technology and Management, Hisar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hisar, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Agricultural Engineering College and Research Institute, Kumulur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumulur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Rajendra Prasad Central Agricultural University Samastipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Samastipur, Bihar",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "PSN College of Engineering and Technology, Tirunelveli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Melathediyoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jawaharlal College of Engineering and Technology, Palakkad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Lakkidi, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 396,000"
+  },
+  {
+    "Name": "IFTM University, Moradabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lodhipur Rajput, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 408,000"
+  },
+  {
+    "Name": "GITAM School of Technology, Hyderabad",
+    "Branch": "B.Tech Aerospace Engineering",
+    "Place": "Rudraram, Telangana",
+    "Exams Accepted": "GITAM",
+    "Fees": "Fees:  ₹ 1,452,000"
+  },
+  {
+    "Name": "ABR College of Engineering and Technology, Prakasam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Somanapalle, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Triguna Sen School of Technology, Assam University, Silchar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Silcoorie Grant, Assam",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Kerala Agricultural University, Thrissur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Thrissur, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Singhania University, Jhunjhunu",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Rasoolpur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies, Faridabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Faridabad, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 613,500"
+  },
+  {
+    "Name": "Nova College of Engineering and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Vijayawada, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "GS Mandal's Maharashtra Institute of Technology, Aurangabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aurangabad, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 336,000"
+  },
+  {
+    "Name": "Nehru Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Guru Kashi University, Talwandi Sabo",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Talwandi Sabo, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Khaja Banda Nawaz College of Engineering, Gulbarga",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Gulbarga, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Rajendranagar",
+    "Branch": "B.Tech Agricultural Engineering and Technology",
+    "Place": "Lam, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Visvesvaraya Technological University, Belagavi",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Belgaum, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 61,840"
+  },
+  {
+    "Name": "Parul Institute of Technology, Vadodara",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Limda, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhubaneswar Engineering College, Bhubaneswar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhubaneswar, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 252,000"
+  },
+  {
+    "Name": "SRM Valliammai Engineering College, Kancheepuram",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Kancheepuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 348,000"
+  },
+  {
+    "Name": "Udaya School of Engineering, Kanyakumari",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Parbhani, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "KK Wagh College of Agricultural Engineering and Technology, Nashik",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sinnar, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 227,400"
+  },
+  {
+    "Name": "CMJ University, Shillong",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Shillong, Meghalaya",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Paavai Engineering College, Pachal",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Puduchatram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Bhubaneswar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhubaneswar, Odisha",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Ratnagiri, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Amity University, Mumbai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,328,000"
+  },
+  {
+    "Name": "Saroj Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 340,000"
+  },
+  {
+    "Name": "Nandha Engineering College, Erode",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Erode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jagannath Institute for Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Uppalada, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 421,000"
+  },
+  {
+    "Name": "Arunai Engineering College, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruvannamalai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "East West College of Engineering, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,000,000"
+  },
+  {
+    "Name": "Rai University, Ahmedabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Saroda, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 256,000"
+  },
+  {
+    "Name": "William Carey University, Shillong",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Shillong, Meghalaya",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Thiruvananthapuram, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 700,000"
+  },
+  {
+    "Name": "Mahaveer Institute of Science and Technology, Hyderabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 240,000"
+  },
+  {
+    "Name": "Baba Sahab Dr Bhim Rao Ambedkar College of Agricultural Engineering and Technology, Etawah",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Etawah, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 270,000"
+  },
+  {
+    "Name": "Parul University, Vadodara",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Waghodia, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahendra Engineering College, Namakkal",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mallasamudram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Raichur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Raichur, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Pydah College of Engineering, Kakinada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chollangi Peta, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "ACE College of Engineering, Thiruvananthapuram",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Thiruvananthapuram, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Fatehgarh Sahib, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 298,000"
+  },
+  {
+    "Name": "St Peter's College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Avadi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "AKS University, Satna",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 320,000"
+  },
+  {
+    "Name": "PM College of Engineering, Sonipat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhuri, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bharat Institute of Engineering and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RVS Technical Campus, Coimbatore",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Anand Agricultural University, Anand",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Anand, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Babu Banarasi Das National Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 453,212"
+  },
+  {
+    "Name": "College of Agriculture, Hassan",
+    "Branch": "B.Tech Food Science and Technology",
+    "Place": "Karekere, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shri Ramswaroop Memorial University, Barabanki",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Barabanki, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 365,000"
+  },
+  {
+    "Name": "Shivdan Singh Institute of Technology and Management, Aligarh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 340,000"
+  },
+  {
+    "Name": "Chatrapati Shivaji Maharaj College of Aviation Technology, Ambajogai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ambajogai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jabalpur, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr DY Patil College of Agricultural Engineering and Technology, Kolhapur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kolhapur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Swarrnim Startup and Innovation University, Gandhinagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "ILM College of Engineering and Technology, Ernakulam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ernakulam, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 360,000"
+  },
+  {
+    "Name": "Jayoti Vidyapeeth Women's University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jharna, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Shriram College of Agriculture, Paniv",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Khudus, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rajasthan Technical University, Kota",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kota, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 86,500"
+  },
+  {
+    "Name": "Institute of People's Science and Technology, Chitrakoot",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahatma Jyoti Rao Phoole University, Jaipur",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Kalwad Kalan and Khurd, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vikas College of Engineering and Technology, Vijayawada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Nunna, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Loyola Institute of Technology and Science, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Vivekananda College of Technology and Management, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  UPSEE"
+  },
+  {
+    "Name": "PK Institute of Technology and Management, Mathura",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Birhana, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gandhi Institute for Technology, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurda, Odisha",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  OJEE"
+  },
+  {
+    "Name": "AM Reddy Memorial College of Engineering and Technology, Narasaraopet",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Petlurivaripalem, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "PK University, Shivpuri",
+    "Branch": "B.Tech Agriculture",
+    "Place": "Karera, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RR Institute of Modern Technology, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 348,800"
+  },
+  {
+    "Name": "Seth Vishambhar Nath Institute of Engineering and Technology, Barabanki",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Barabanki, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mahabalipuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Agricultural College and Research Institute, Tamil Nadu Agricultural University, Coimbatore",
+    "Branch": "B.Tech Agricultural Information Technology",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Chhattisgarh Agriculture Engineering College, Durg",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Durg, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Akola",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Akola Rural, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SCT Institute of Technology, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Satya Sai Institute of Science and Technology, Sehore",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Marwadi Education Foundation Group of Institutions, Rajkot",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  GUJCET"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Madakasira",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Madakasira, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Gurukul Vidyapeeth Institute of Engineering and Technology, Patiala",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Jhansala, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Kakinada Institute of Technology and Science, Divili",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chandramampalli, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Samalkha Group of Institutions, Panipat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Panipat, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,13,552"
+  },
+  {
+    "Name": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir, Srinagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Jammu, Jammu and Kashmir",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,37,200"
+  },
+  {
+    "Name": "Shobhit Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Agriinformatics",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 4,10,000"
+  },
+  {
+    "Name": "Noorul Islam Centre For Higher Education, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 4,00,000"
+  },
+  {
+    "Name": "Avanthi Institute of Engineering and Technology, Visakhapatnam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kothapallem, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Sri Jayaram Institute of Engineering and Technology, Thiruvallur",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Gummudipoondi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mohammad Ali Jauhar University, Rampur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Rampur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gojan School of Business and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nallur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vision Institute of Technology, Kanpur",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Er Perumal Manimekalai College of Engineering, Hosur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nallaganakothapalli, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Bansal Institute of Engineering and Technology, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,34,400"
+  },
+  {
+    "Name": "RKDF University, Bhopal",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhopal, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,00,000"
+  },
+  {
+    "Name": "MATS School of Engineering and Information Technology, Raipur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Arang, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Manav Rachna International Institute of Research and Studies, Faridabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Faridabad, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 7,26,000"
+  },
+  {
+    "Name": "North East Frontier Technical University, West Siang",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Aalo, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "NOVA College of Engineering and Technology, Jangareddygudem",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Vegavaram, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Sri Shanmugha College of Engineering and Technology, Salem",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Tiruchengode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mohamed Sathak AJ College of Engineering, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gajapati, Odisha",
+    "Exams Accepted": "CUEE",
+    "Fees": "Fees:  ₹ 5,00,000"
+  },
+  {
+    "Name": "Apollo Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Poonamallee, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,80,000"
+  },
+  {
+    "Name": "Aurora's Scientific and Technological Institute, Ghatkesar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Secunderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 2,61,100"
+  },
+  {
+    "Name": "C Abdul Hakeem College of Engineering and Technology, Melvisharam",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Melvisharam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Rajas Engineering College, Vadakkangulam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Vadakankulam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "International School of Technology and Sciences for Women, Rajahmundry",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Rajanagaram, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Chitrakoot",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rama University, Kanpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Mandhana, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mount Zion College of Engineering, Pathanamthitta",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kadammanitta, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "PB College of Engineering, Kancheepuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kancheepuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Infant Jesus College of Engineering, Thoothukudi",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thoothukudi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jawaharlal Institute of Technology, Coimbatore",
+    "Branch": "Aeronautical Engineerin",
+    "Place": "Thirumalayampalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SR Institute of Management and Technology, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 339,600"
+  },
+  {
+    "Name": "Shekhawati Institute of Engineering and Technology, Sikar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sikar, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shree Devi Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangaluru, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 154,000"
+  },
+  {
+    "Name": "Uttar Banga Krishi Viswavidyalaya, Pundibari",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Pundibari, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Vatsavai Krishnam Raju College of Engineering and Technology, West Godavari",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumudavalli, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Arasu Engineering College, Kumbakonam",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Kallappuliyur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Swami Vivekanand College of Agricultural Engineering and Technology and Research Station, Raipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Raipur, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surya College of Engineering and Technology, Villupuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Salai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aurora's Research and Technological Institute, Warangal",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Warangal, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Lord Jegannath College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "RVS School of Engineering and Technology, Dindigul",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Padiyur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sha-Shib College of Engineering, Chikkaballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Batthalahalli, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aligarh College of Engineering and Technology, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Maria College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Attoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "The Kavery College of Engineering, Salem",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "M.Kalipatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "College of Food Science and Technology, Bapatla",
+    "Branch": "B.Tech Food Technology",
+    "Place": "Bapatla, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Satyam College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Aralvaimozhi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "JJ College of Engineering and Technology, Tiruchirappalli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Poolangulathupatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "NIMRA Institute of Science and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ibrahimpatnam, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Madha Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Shahjehan College of Engineering and Technology, Chevella",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chevella, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "SKP Engineering College, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Malappambadi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MATS University, Raipur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Gullu, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Panjabrao Deshmukh Krishi Vidyapeeth, Akola",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Akola, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shobhit University, Gangoh",
+    "Branch": "B.Tech Agriculture Informatics",
+    "Place": "Mohammadpur Road, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 331,100"
+  },
+  {
+    "Name": "Junagadh Agricultural University, Junagadh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Junagadh, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bharti College of Agricultural Engineering, Durg",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Durg, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Navi Kot Nandana, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 305,000"
+  },
+  {
+    "Name": "Achutha Institute of Technology, Chikkaballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thangadikunte, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 132,000"
+  },
+  {
+    "Name": "Jayam College of Engineering and Technology, Dharmapuri",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Dharmapuri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jaya Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thirunindravur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Post Harvest Technology, Gangtok",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gangtok, Sikkim",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhawani Sao Ramlal Sao Memorial College of Agricultural Engineering and Technology and Research Station, Mungeli",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Mungeli, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Lumbini Group of Institutions, Hyderabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhuvanagiri, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Suresh Gyan Vihar University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 480,000"
+  },
+  {
+    "Name": "Maharana Pratap University of Agriculture and Technology, Udaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Kaushik College of Engineering, Visakhapatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Tallavalasa, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "Thiruvalluvar College of Engineering and Technology, Vandavasi",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ponnur Malai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Ramakrishna College of Engineering, Perambalur",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Siruvachur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahendra Institute of Engineering and Technology, Tiruchengode",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruchengode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Park College of Technology, Karumathampatti",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Karumathampatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Arunai College of Engineering, Tiruvannamalai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Thenmathur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Babu Sunder Singh Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RK University, Rajkot",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 260,000"
+  },
+  {
+    "Name": "PMR Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MAM School of Engineering, Siruganur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Siruganur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tudi Ram Reddy Institute of Technology and Science, Hyderabad",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Gudur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Maheshwara Institute of Technology, Patancheru",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tagore Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Rathinamangalam, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 200,000"
+  },
+  {
+    "Name": "Kakinada Institute of Technological Sciences, Ramachandrapuram",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ambikapalli Agrahaaram, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "Doon College of Engineering and Technology, Saharanpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Saharanpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Adusumilli Vijaya Institute of Technology and Research Centre, Nalgonda",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Nalgonda, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "Punjab State Aeronautical Engineering College, Patiala",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Patiala, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Raffles University, Neemrana",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Neemrana, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 398,000"
+  },
+  {
+    "Name": "Vijaya Engineering College, Khammam",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khammam, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Muthayammal College of Engineering, Namakkal",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Rasipuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surendra Group of Institutions, Sri Ganganagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sri Ganganagar, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 318,500"
+  },
+  {
+    "Name": "Himalayan Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gopal Ramalingam Memorial Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vattampakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "ACN College of Engineering and Management Studies, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chherat, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  UPSEE"
+  },
+  {
+    "Name": "Tudi Ram Reddy Institute of Technology and Science, Bibinagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gudur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "Rajaas Engineering College, Tirunelveli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Adangarkulam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Adusumalli Vijaya College of Engineering and Research Centre, Nalgonda",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bommalramaram, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Immanuel Araser JJ college of Engineering, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Marthandam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vikas Group of Institutions, Vijayawada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Vijayawada, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Bikaner Technical University, Bikaner",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bikaner, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rai Technology University, Bangalore",
+    "Branch": "B.Tech Agriculture",
+    "Place": "Doddabelavangala, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Narendra Deva University of Agriculture and Technology, Faizabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumarganj, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sanskriti Institute of Management and Technology, Mathura",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Chhata, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vision Institute of Technology, Aligarh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Bilgram, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 293,000"
+  },
+  {
+    "Name": "Marathwada Institute of Technology, Bulandshahr",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bulandshahr, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 232,000"
+  },
+  {
+    "Name": "Nigama Engineering College, Karim Nagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Thaher Kondapur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr ZH Institute of Technology and Management, Firozabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Satauli, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Maharaja Ranjit Singh Punjab Technical University, Bathinda",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bathinda, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SKP Institute of Technology, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruvannamalai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MJRP College of Engineering and Technology, Jaipur",
+    "Branch": "B. Tech Agriculture Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Parisutham Institute of Technology and Science, Thanjavur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Inathukanpatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 395,600"
+  },
+  {
+    "Name": "Paavaai Group of Institutions- School of Engineering, Pachal",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Pachal, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Infant Jesus College of Engineering and Technology, Thoothukudi",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vallanadu, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Central Agricultural University, Imphal",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Imphal, Manipur",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tamizhan College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chenbagaramanputhoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surya School of Engineering and Technology, Villupuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Villupuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Srinivasan Engineering College, Perambalur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Bandari Srinivas College of Engineering and Technology, Ranga Reddy",
+    "Branch": "Aeronautical Engineering",
+    "Place": "Dharmasagar, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sethu Institute of Technology, Kariapatti",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "S.Kallupatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Srinivas Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Arkula, Karnataka",
+    "Exams Accepted": "COMEDK",
+    "Fees": "Fees:  ₹ 316,000"
+  },
+  {
+    "Name": "SNS College of Technology, Coimbatore",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Kurumbapalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "ACS College of Engineering, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  COMEDK UGET ,  KCET"
+  },
+  {
+    "Name": "Dr MGR Educational and Research Institute, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 640,000"
+  },
+  {
+    "Name": "Vignan's Foundation for Science Technology and Research, Guntur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Saveetha Engineering College, Chennai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "The Institutions of Engineers India, Kolkata",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kolkata, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "OPJS University, Rajgarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Churu, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Priyadarshini College of Engineering, Nagpur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 416,000"
+  },
+  {
+    "Name": "Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "VTUEEE",
+    "Fees": "Fees:  ₹ 1,060,000"
+  },
+  {
+    "Name": "Silver Oak College of Engineering and Technology, Ahmedabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Sai Nath University, Ranchi",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ranchi, Jharkhand",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Digras, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "NIMS University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 320,000"
+  },
+  {
+    "Name": "Annasaheb Dange College of Engineering and Technology, Sangli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Ashta, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 316,000"
+  },
+  {
+    "Name": "Bharath Institute of Higher Education and Research, Chennai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "BEEE",
+    "Fees": "Fees:  ₹ 600,000"
+  },
+  {
+    "Name": "Amity University, Noida",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Noida, Uttar Pradesh",
+    "Exams Accepted": "Amity",
+    "Fees": "Fees:  ₹ 1,244,000"
+  },
+  {
+    "Name": "ITM University, Gwalior",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gwalior, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 580,000"
+  },
+  {
+    "Name": "Adhiyamaan College of Engineering, Hosur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Krishnagiri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "SJC Institute of Technology, Chickballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chikkaballapura, Karnataka",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Swami Vivekanand University, Sagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Sironja, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Siddhartha Institute of Engineering and Technology, Puttur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Puttur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 290,000"
+  },
+  {
+    "Name": "KCG College of Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Mangalore Institute of Technology and Engineering, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurda, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 191,290"
+  },
+  {
+    "Name": "Excel Engineering College, Namakkal",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Pallakapalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Kalasalingam Academy of Research and Education, Virudhunagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Krishnan Kovil, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 530,000"
+  },
+  {
+    "Name": "Desh Bhagat University, Mandi Gobindgarh",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Mandi Gobindgarh, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Nehru Institute of Engineering and Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thirumalayampalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,80,000"
+  },
+  {
+    "Name": "Chaudhary Charan Singh Haryana Agricultural University, Hisar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Hisar, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Punjab Agricultural University, Ludhiana",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ludhiana, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,22,790"
+  },
+  {
+    "Name": "Sri Satya Sai University of Technology and Medical Sciences, Sehore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Poornima College of Engineering, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Feroze Gandhi Institute of Engineering and Technology, Raebareli",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Raebareli, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 3,39,818"
+  },
+  {
+    "Name": "Park College of Engineering and Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "International Institute for Aerospace Engineering and Management, Jain University, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "GD Goenka School of Engineering, Gurgaon",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Sohna, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Acharya NG Ranga Agricultural University, Guntur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 97,200"
+  },
+  {
+    "Name": "Sardar Vallabhbhai Patel Institute of Technology, Anand",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vasad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,01,400"
+  },
+  {
+    "Name": "Vaugh Institute of Agricultural Engineering and Technology, Allahabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Allahabad, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan College of Engineering, Perambalur",
+    "Branch": "B.Tech Food Technology",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Jeppiaar Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Rungta College of Engineering and Technology, Bhilai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Bhilai, Chhattisgarh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 2,94,920"
+  },
+  {
+    "Name": "Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nagpur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Shakthi Institute of Engineering and Technology, Coimbatore",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore",
+    "Branch": "B.Tech Avionics",
+    "Place": "Indore, Madhya Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,07,000"
+  },
+  {
+    "Name": "North Eastern Regional Institute of Science and Technology, Nirjuli",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 42,720"
+  },
+  {
+    "Name": "Hindusthan Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Malumichampatty, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Mohamed Sathak Engineering College, Kilakarai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kilakarai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Bhagwant University, Ajmer",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ajmer, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Aditya Silver Oak Institute of Technology, Ahmedabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ahmedabad, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,24,000"
+  },
+  {
+    "Name": "Kalaignar Karunanidhi Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aadishwar College of Technology, Gandhinagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Bapatla",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Guntur, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 97,200"
+  },
+  {
+    "Name": "School of Aeronautics, Neemrana",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Neemrana, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 7,37,000"
+  },
+  {
+    "Name": "Sardar Patel University, Balaghat",
+    "Branch": "B.Tech Agricultural Science",
+    "Place": "Balaghat, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bidhan Chandra Krishi Vishwavidyalaya, Nadia",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Manpur, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Karavali Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangaluru, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,00,000"
+  },
+  {
+    "Name": "GKM College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Kelappaji College of Agricultural Engineering and Technology, Tavanur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Tavanur, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Shyam University, Dausa",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Dausa, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Himalayan University, Itanagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Itanagar, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhagwan Arihant Institute of Technology, Surat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Surat, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sir Chhotu Ram Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 325,000"
+  },
+  {
+    "Name": "Aditya College of Technology and Science, Satna",
+    "Branch": "BE Agricultural Technology",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Centurion Institute of Technology, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurdha, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 500,000"
+  },
+  {
+    "Name": "Parul Institute of Engineering and Technology, Vadodara",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Vadodara, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 339,000"
+  },
+  {
+    "Name": "Saveetha School of Engineering, Chennai",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Kuthambakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 535,000"
+  },
+  {
+    "Name": "College of Agriculture, Bangalore",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "St Peter's University, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 300,000"
+  },
+  {
+    "Name": "Dr Annasaheb Shinde College of Agricultural Engineering, Ahmednagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ahmednagar, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan Institute of Research and Technology, Perambalur",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Manav Institute of Technology and Management, Hisar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hisar, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Agricultural Engineering College and Research Institute, Kumulur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumulur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Rajendra Prasad Central Agricultural University Samastipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Samastipur, Bihar",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "PSN College of Engineering and Technology, Tirunelveli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Melathediyoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jawaharlal College of Engineering and Technology, Palakkad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Lakkidi, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 396,000"
+  },
+  {
+    "Name": "IFTM University, Moradabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lodhipur Rajput, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 408,000"
+  },
+  {
+    "Name": "GITAM School of Technology, Hyderabad",
+    "Branch": "B.Tech Aerospace Engineering",
+    "Place": "Rudraram, Telangana",
+    "Exams Accepted": "GITAM",
+    "Fees": "Fees:  ₹ 1,452,000"
+  },
+  {
+    "Name": "ABR College of Engineering and Technology, Prakasam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Somanapalle, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Triguna Sen School of Technology, Assam University, Silchar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Silcoorie Grant, Assam",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Kerala Agricultural University, Thrissur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Thrissur, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Singhania University, Jhunjhunu",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Rasoolpur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies, Faridabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Faridabad, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 613,500"
+  },
+  {
+    "Name": "Nova College of Engineering and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Vijayawada, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "GS Mandal's Maharashtra Institute of Technology, Aurangabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aurangabad, Maharashtra",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 336,000"
+  },
+  {
+    "Name": "Nehru Institute of Technology, Coimbatore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Guru Kashi University, Talwandi Sabo",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Talwandi Sabo, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Khaja Banda Nawaz College of Engineering, Gulbarga",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Gulbarga, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Rajendranagar",
+    "Branch": "B.Tech Agricultural Engineering and Technology",
+    "Place": "Lam, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Visvesvaraya Technological University, Belagavi",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Belgaum, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 61,840"
+  },
+  {
+    "Name": "Parul Institute of Technology, Vadodara",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Limda, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhubaneswar Engineering College, Bhubaneswar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhubaneswar, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 252,000"
+  },
+  {
+    "Name": "SRM Valliammai Engineering College, Kancheepuram",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Kancheepuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 348,000"
+  },
+  {
+    "Name": "Udaya School of Engineering, Kanyakumari",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Parbhani, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "KK Wagh College of Agricultural Engineering and Technology, Nashik",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sinnar, Maharashtra",
+    "Exams Accepted": "MAHA",
+    "Fees": "Fees:  ₹ 227,400"
+  },
+  {
+    "Name": "CMJ University, Shillong",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Shillong, Meghalaya",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Paavai Engineering College, Pachal",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Puduchatram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Bhubaneswar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhubaneswar, Odisha",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Ratnagiri, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Amity University, Mumbai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Navi Mumbai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,328,000"
+  },
+  {
+    "Name": "Saroj Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 340,000"
+  },
+  {
+    "Name": "Nandha Engineering College, Erode",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Erode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jagannath Institute for Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Uppalada, Odisha",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 421,000"
+  },
+  {
+    "Name": "Arunai Engineering College, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruvannamalai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "East West College of Engineering, Bangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,000,000"
+  },
+  {
+    "Name": "Rai University, Ahmedabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Saroda, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 256,000"
+  },
+  {
+    "Name": "William Carey University, Shillong",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Shillong, Meghalaya",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Thiruvananthapuram, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 700,000"
+  },
+  {
+    "Name": "Mahaveer Institute of Science and Technology, Hyderabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 240,000"
+  },
+  {
+    "Name": "Baba Sahab Dr Bhim Rao Ambedkar College of Agricultural Engineering and Technology, Etawah",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Etawah, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 270,000"
+  },
+  {
+    "Name": "Parul University, Vadodara",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Waghodia, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahendra Engineering College, Namakkal",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mallasamudram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Raichur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Raichur, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Pydah College of Engineering, Kakinada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chollangi Peta, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "ACE College of Engineering, Thiruvananthapuram",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Thiruvananthapuram, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  KEAM"
+  },
+  {
+    "Name": "Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Fatehgarh Sahib, Punjab",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 298,000"
+  },
+  {
+    "Name": "St Peter's College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Avadi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "AKS University, Satna",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 320,000"
+  },
+  {
+    "Name": "PM College of Engineering, Sonipat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhuri, Haryana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bharat Institute of Engineering and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RVS Technical Campus, Coimbatore",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Anand Agricultural University, Anand",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Anand, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  GUJCET"
+  },
+  {
+    "Name": "Babu Banarasi Das National Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 453,212"
+  },
+  {
+    "Name": "College of Agriculture, Hassan",
+    "Branch": "B.Tech Food Science and Technology",
+    "Place": "Karekere, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shri Ramswaroop Memorial University, Barabanki",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Barabanki, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 365,000"
+  },
+  {
+    "Name": "Shivdan Singh Institute of Technology and Management, Aligarh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 340,000"
+  },
+  {
+    "Name": "Chatrapati Shivaji Maharaj College of Aviation Technology, Ambajogai",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ambajogai, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jabalpur, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr DY Patil College of Agricultural Engineering and Technology, Kolhapur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kolhapur, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Swarrnim Startup and Innovation University, Gandhinagar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bhoyan Rathod, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "ILM College of Engineering and Technology, Ernakulam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ernakulam, Kerala",
+    "Exams Accepted": "KEAM",
+    "Fees": "Fees:  ₹ 360,000"
+  },
+  {
+    "Name": "Jayoti Vidyapeeth Women's University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jharna, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "Shriram College of Agriculture, Paniv",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Khudus, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rajasthan Technical University, Kota",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kota, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 86,500"
+  },
+  {
+    "Name": "Institute of People's Science and Technology, Chitrakoot",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahatma Jyoti Rao Phoole University, Jaipur",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Kalwad Kalan and Khurd, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vikas College of Engineering and Technology, Vijayawada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Nunna, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Loyola Institute of Technology and Science, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Vivekananda College of Technology and Management, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main ,  UPSEE"
+  },
+  {
+    "Name": "PK Institute of Technology and Management, Mathura",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Birhana, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gandhi Institute for Technology, Bhubaneswar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khurda, Odisha",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  OJEE"
+  },
+  {
+    "Name": "AM Reddy Memorial College of Engineering and Technology, Narasaraopet",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Petlurivaripalem, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "PK University, Shivpuri",
+    "Branch": "B.Tech Agriculture",
+    "Place": "Karera, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RR Institute of Modern Technology, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 348,800"
+  },
+  {
+    "Name": "Seth Vishambhar Nath Institute of Engineering and Technology, Barabanki",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Barabanki, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mahabalipuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Agricultural College and Research Institute, Tamil Nadu Agricultural University, Coimbatore",
+    "Branch": "B.Tech Agricultural Information Technology",
+    "Place": "Coimbatore, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Chhattisgarh Agriculture Engineering College, Durg",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Durg, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Technology, Akola",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Akola Rural, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SCT Institute of Technology, Bangalore",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bangalore, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Satya Sai Institute of Science and Technology, Sehore",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Sehore, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Marwadi Education Foundation Group of Institutions, Rajkot",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  GUJCET"
+  },
+  {
+    "Name": "College of Agricultural Engineering, Acharya NG Ranga Agricultural University, Madakasira",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Madakasira, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Gurukul Vidyapeeth Institute of Engineering and Technology, Patiala",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Jhansala, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Kakinada Institute of Technology and Science, Divili",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chandramampalli, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Samalkha Group of Institutions, Panipat",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Panipat, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 3,13,552"
+  },
+  {
+    "Name": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir, Srinagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Jammu, Jammu and Kashmir",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,37,200"
+  },
+  {
+    "Name": "Shobhit Institute of Engineering and Technology, Meerut",
+    "Branch": "B.Tech Agriinformatics",
+    "Place": "Meerut, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 4,10,000"
+  },
+  {
+    "Name": "Noorul Islam Centre For Higher Education, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 4,00,000"
+  },
+  {
+    "Name": "Avanthi Institute of Engineering and Technology, Visakhapatnam",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kothapallem, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Sri Jayaram Institute of Engineering and Technology, Thiruvallur",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Gummudipoondi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mohammad Ali Jauhar University, Rampur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Rampur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gojan School of Business and Technology, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nallur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vision Institute of Technology, Kanpur",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Kanpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Er Perumal Manimekalai College of Engineering, Hosur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Nallaganakothapalli, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 1,60,000"
+  },
+  {
+    "Name": "Bansal Institute of Engineering and Technology, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 3,34,400"
+  },
+  {
+    "Name": "RKDF University, Bhopal",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhopal, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,00,000"
+  },
+  {
+    "Name": "MATS School of Engineering and Information Technology, Raipur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Arang, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Manav Rachna International Institute of Research and Studies, Faridabad",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Faridabad, Haryana",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 7,26,000"
+  },
+  {
+    "Name": "North East Frontier Technical University, West Siang",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Aalo, Arunachal Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "NOVA College of Engineering and Technology, Jangareddygudem",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Vegavaram, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Sri Shanmugha College of Engineering and Technology, Salem",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Tiruchengode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mohamed Sathak AJ College of Engineering, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Centurion University of Technology and Management, Paralakhemundi",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gajapati, Odisha",
+    "Exams Accepted": "CUEE",
+    "Fees": "Fees:  ₹ 5,00,000"
+  },
+  {
+    "Name": "Apollo Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Poonamallee, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 2,80,000"
+  },
+  {
+    "Name": "Aurora's Scientific and Technological Institute, Ghatkesar",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Secunderabad, Telangana",
+    "Exams Accepted": "TS",
+    "Fees": "Fees:  ₹ 2,61,100"
+  },
+  {
+    "Name": "C Abdul Hakeem College of Engineering and Technology, Melvisharam",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Melvisharam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Rajas Engineering College, Vadakkangulam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Vadakankulam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "International School of Technology and Sciences for Women, Rajahmundry",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Rajanagaram, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Chitrakoot",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Satna, Madhya Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rama University, Kanpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Mandhana, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mount Zion College of Engineering, Pathanamthitta",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Kadammanitta, Kerala",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "PB College of Engineering, Kancheepuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kancheepuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Infant Jesus College of Engineering, Thoothukudi",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thoothukudi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Jawaharlal Institute of Technology, Coimbatore",
+    "Branch": "Aeronautical Engineerin",
+    "Place": "Thirumalayampalayam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SR Institute of Management and Technology, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 339,600"
+  },
+  {
+    "Name": "Shekhawati Institute of Engineering and Technology, Sikar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sikar, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shree Devi Institute of Technology, Mangalore",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Mangaluru, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 154,000"
+  },
+  {
+    "Name": "Uttar Banga Krishi Viswavidyalaya, Pundibari",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Pundibari, West Bengal",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Vatsavai Krishnam Raju College of Engineering and Technology, West Godavari",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumudavalli, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Arasu Engineering College, Kumbakonam",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Kallappuliyur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Swami Vivekanand College of Agricultural Engineering and Technology and Research Station, Raipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Raipur, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surya College of Engineering and Technology, Villupuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Salai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aurora's Research and Technological Institute, Warangal",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Warangal, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Lord Jegannath College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Kanyakumari, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 280,000"
+  },
+  {
+    "Name": "RVS School of Engineering and Technology, Dindigul",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Padiyur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sha-Shib College of Engineering, Chikkaballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Batthalahalli, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Aligarh College of Engineering and Technology, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Aligarh, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 220,000"
+  },
+  {
+    "Name": "Maria College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Attoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "The Kavery College of Engineering, Salem",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "M.Kalipatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "College of Food Science and Technology, Bapatla",
+    "Branch": "B.Tech Food Technology",
+    "Place": "Bapatla, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Satyam College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Aralvaimozhi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "JJ College of Engineering and Technology, Tiruchirappalli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Poolangulathupatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "NIMRA Institute of Science and Technology, Ibrahimpatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ibrahimpatnam, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Madha Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Shahjehan College of Engineering and Technology, Chevella",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Chevella, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "SKP Engineering College, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Malappambadi, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MATS University, Raipur",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Gullu, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr Panjabrao Deshmukh Krishi Vidyapeeth, Akola",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Akola, Maharashtra",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Shobhit University, Gangoh",
+    "Branch": "B.Tech Agriculture Informatics",
+    "Place": "Mohammadpur Road, Uttar Pradesh",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 331,100"
+  },
+  {
+    "Name": "Junagadh Agricultural University, Junagadh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Junagadh, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bharti College of Agricultural Engineering, Durg",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Durg, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Navi Kot Nandana, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 305,000"
+  },
+  {
+    "Name": "Achutha Institute of Technology, Chikkaballapur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thangadikunte, Karnataka",
+    "Exams Accepted": "KCET",
+    "Fees": "Fees:  ₹ 132,000"
+  },
+  {
+    "Name": "Jayam College of Engineering and Technology, Dharmapuri",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Dharmapuri, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Jaya Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Thirunindravur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "College of Agricultural Engineering and Post Harvest Technology, Gangtok",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gangtok, Sikkim",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Bhawani Sao Ramlal Sao Memorial College of Agricultural Engineering and Technology and Research Station, Mungeli",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Mungeli, Chhattisgarh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Lumbini Group of Institutions, Hyderabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bhuvanagiri, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Suresh Gyan Vihar University, Jaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 480,000"
+  },
+  {
+    "Name": "Maharana Pratap University of Agriculture and Technology, Udaipur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Udaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  JEE Main"
+  },
+  {
+    "Name": "Kaushik College of Engineering, Visakhapatnam",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Tallavalasa, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "Thiruvalluvar College of Engineering and Technology, Vandavasi",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Ponnur Malai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sri Ramakrishna College of Engineering, Perambalur",
+    "Branch": "BE Agricultural Engineering",
+    "Place": "Siruvachur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Mahendra Institute of Engineering and Technology, Tiruchengode",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruchengode, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Park College of Technology, Karumathampatti",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Karumathampatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Arunai College of Engineering, Tiruvannamalai",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Thenmathur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Babu Sunder Singh Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "RK University, Rajkot",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Rajkot, Gujarat",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 260,000"
+  },
+  {
+    "Name": "PMR Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chennai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MAM School of Engineering, Siruganur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Siruganur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tudi Ram Reddy Institute of Technology and Science, Hyderabad",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Gudur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Maheshwara Institute of Technology, Patancheru",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Hyderabad, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tagore Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Rathinamangalam, Tamil Nadu",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 200,000"
+  },
+  {
+    "Name": "Kakinada Institute of Technological Sciences, Ramachandrapuram",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Ambikapalli Agrahaaram, Andhra Pradesh",
+    "Exams Accepted": "AP",
+    "Fees": "Fees:  ₹ 140,000"
+  },
+  {
+    "Name": "Doon College of Engineering and Technology, Saharanpur",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Saharanpur, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Adusumilli Vijaya Institute of Technology and Research Centre, Nalgonda",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Nalgonda, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "Punjab State Aeronautical Engineering College, Patiala",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Patiala, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Raffles University, Neemrana",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Neemrana, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 398,000"
+  },
+  {
+    "Name": "Vijaya Engineering College, Khammam",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Khammam, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Muthayammal College of Engineering, Namakkal",
+    "Branch": "BE Agriculture Engineering",
+    "Place": "Rasipuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surendra Group of Institutions, Sri Ganganagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Sri Ganganagar, Rajasthan",
+    "Exams Accepted": "JEE",
+    "Fees": "Fees:  ₹ 318,500"
+  },
+  {
+    "Name": "Himalayan Institute of Technology and Management, Lucknow",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Lucknow, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Gopal Ramalingam Memorial Engineering College, Chennai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vattampakkam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "ACN College of Engineering and Management Studies, Aligarh",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Chherat, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  UPSEE"
+  },
+  {
+    "Name": "Tudi Ram Reddy Institute of Technology and Science, Bibinagar",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Gudur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  TS EAMCET"
+  },
+  {
+    "Name": "Rajaas Engineering College, Tirunelveli",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Adangarkulam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Adusumalli Vijaya College of Engineering and Research Centre, Nalgonda",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bommalramaram, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Immanuel Araser JJ college of Engineering, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Marthandam, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vikas Group of Institutions, Vijayawada",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Vijayawada, Andhra Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "Exams:  AP EAMCET"
+  },
+  {
+    "Name": "Bikaner Technical University, Bikaner",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bikaner, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Rai Technology University, Bangalore",
+    "Branch": "B.Tech Agriculture",
+    "Place": "Doddabelavangala, Karnataka",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Narendra Deva University of Agriculture and Technology, Faizabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Kumarganj, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Sanskriti Institute of Management and Technology, Mathura",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Chhata, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Vision Institute of Technology, Aligarh",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Bilgram, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 293,000"
+  },
+  {
+    "Name": "Marathwada Institute of Technology, Bulandshahr",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Bulandshahr, Uttar Pradesh",
+    "Exams Accepted": "UPSEE",
+    "Fees": "Fees:  ₹ 232,000"
+  },
+  {
+    "Name": "Nigama Engineering College, Karim Nagar",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Thaher Kondapur, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Dr ZH Institute of Technology and Management, Firozabad",
+    "Branch": "B.Tech Agricultural Engineering",
+    "Place": "Satauli, Uttar Pradesh",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Maharaja Ranjit Singh Punjab Technical University, Bathinda",
+    "Branch": "B.Tech Aeronautical Engineering",
+    "Place": "Bathinda, Punjab",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "SKP Institute of Technology, Tiruvannamalai",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Tiruvannamalai, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "MJRP College of Engineering and Technology, Jaipur",
+    "Branch": "B. Tech Agriculture Engineering",
+    "Place": "Jaipur, Rajasthan",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Parisutham Institute of Technology and Science, Thanjavur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Inathukanpatti, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 395,600"
+  },
+  {
+    "Name": "Paavaai Group of Institutions- School of Engineering, Pachal",
+    "Branch": "B. Tech Aeronautical Engineering",
+    "Place": "Pachal, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Infant Jesus College of Engineering and Technology, Thoothukudi",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Vallanadu, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Central Agricultural University, Imphal",
+    "Branch": "B.Tech Agriculture Engineering",
+    "Place": "Imphal, Manipur",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Tamizhan College of Engineering and Technology, Kanyakumari",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Chenbagaramanputhoor, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Surya School of Engineering and Technology, Villupuram",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Villupuram, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  },
+  {
+    "Name": "Srinivasan Engineering College, Perambalur",
+    "Branch": "BE Aeronautical Engineering",
+    "Place": "Perambalur, Tamil Nadu",
+    "Exams Accepted": "NA",
+    "Fees": "Fees:  ₹ 160,000"
+  },
+  {
+    "Name": "Bandari Srinivas College of Engineering and Technology, Ranga Reddy",
+    "Branch": "Aeronautical Engineering",
+    "Place": "Dharmasagar, Telangana",
+    "Exams Accepted": "NA",
+    "Fees": "NA"
+  }
+]

@@ -1,1 +1,1 @@
-web: main_page.py:app
+web: py main_page.py:app

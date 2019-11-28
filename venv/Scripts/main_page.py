@@ -59,7 +59,7 @@ def search_electronics_and_communication():
 def search_electrical_and_electronics():
     return render_template('electrical_and_electronics.html',author='sony', tables=ans_electrical)
 
-@app.route('/computer_colleges/')
+@app.route('template/computer_colleges/')
 def search_computer_science():
     return render_template('computer_science.html',author='sony', tables=ans_computer)
 

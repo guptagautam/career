@@ -41,7 +41,7 @@ def get_jaccard_sim(str1, str2):
     return float(len(c)) / (len(a) + len(b) - len(c))
 
 
-app = Flask(__name__,static_url_path='/static')
+app = Flask(__name__)
 @app.route('/', methods=['GET', 'POST'])
 def home():
     return render_template('index.html')
